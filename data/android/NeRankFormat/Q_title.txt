@@ -1,0 +1,882 @@
+1 ive rooted my phone now what what do gain from rooting
+2 installed another sms application now get notified twice
+9 do really need to install task manager
+27 how do properly install system app given its apk
+36 how to avoid expensive roaming fees when going abroad with my android
+39 how do uninstall an application
+87 free location aware todo list
+89 how do disable the click sound on the camera app
+112 how to improve the security on my android phone
+164 are there any risks to rooting device
+181 how do upgrade firmware on my samsung galaxy without using windows
+186 how to make certain apps turn on gps automatically
+194 editing text how to change the cursor position
+216 what are the alternative android app markets
+224 how do set custom mp3 as ringtone for other notifications
+236 what does to root phone mean
+245 app to allow me to set which contacts dial out with google voice by default
+253 is there way to enable wifi tethering without root access
+285 how can use shell commands and interact with the linux system underneath
+338 is there any app for stack exchange
+341 is an antivirus really needed for android
+345 how do you link to applications in the android market
+390 how to backup an android device
+418 what causes battery to drain faster than it can charge
+421 netflix is there an app yet
+422 whats the most complete way to erase all the data from my phone so it cannot be recovered
+429 is there any wep cracking application available for android
+591 how to use gps maps without an internet connection
+989 is hebrew support built into android
+1051 is there dlna enabled media player for android
+1054 is there way to use userscripts greasemonkey scripts on the android browser or dolphin hd
+1058 is there an app that will drain my battery
+1106 how to restart an android device
+1114 different notification sounds for sms and email
+1120 complete dropbox implementation for android
+1156 how can customize the list of services that pops up when choose to share something in an app
+1235 can get shortcut to the downloaded files folder
+1263 how can stop android from automatically searching term when choose it from my search history
+1291 what are some solutions for remotely connecting to an android phone
+1315 are there any command line ssh clients available for rooted android phones
+1333 entering backtick with the swype keyboard
+1340 how to show the battery percentage remaining in numbers
+1351 android and itunes
+1358 what effect does tasker locale have on battery life
+1373 what are the pros and cons to running cyanogenmod
+1431 is there any way to print directly from the phone
+1436 browsers that use compression
+1468 do you know other android keypad commands dialer codes
+1540 does android have any specific built in ebook apps
+1592 how to use google talk voice and video calling on an android
+1600 is there good app that lets me to the app updates in one go
+1620 is there way to edit google documents with android
+1624 is there an offline maps application for android
+1641 hide alarm icon in the status bar
+1699 is there way to easily record phone conversation in progress
+1705 using smb server without root access
+1714 alarm clock to wake to music play list
+1727 sharing browser links between pc and phone
+1745 how can share directions route from google maps app
+1749 what alternative browsers are available on android
+1759 how to take screenshot with an android device
+1784 how do send sms from pc through android phone or to android phone
+1793 is there black list for android apps
+1795 can sync firefox bookmarks with android
+1805 my samsung galaxy front facing camera doesnt work in camera app gtalk or skype how can use it
+1819 any concerns using led flashlight apps
+1841 how can remove the default google account on my phone
+1909 how to disable startup and shutdown sound on samsung galaxy
+1949 how to quit skype on android
+1964 whats the easiest way to create qr code for link
+1967 is it possible to use an at phone for android development without rooting
+1970 any reason not to allow automatic updating for an app
+1975 application stuck in installing stage in market
+2007 how can make the swype keyboard type when press now it types ki
+2012 how can view title text for web image xkcd com on an android based browser
+2016 how can you tell which version of an app is on your android phone
+2018 can you get list of the running applications on android for the purpose of activating them
+2028 gmail only reads my emails when press the refresh button is this normal
+2032 should use tasker or locale
+2042 can manually focus the camera on my android phone
+2065 what can do to manage my phones internal storage
+2108 what is the effect of changing the maximum application vm heap size
+2145 are there any jabber xmpp apps out there that support jabber conferencing
+2172 whats the most effortless way for cloud back up of photos taken with an android phone
+2208 why do apps get smaller when they are moved to the sd card
+2280 why does google maps need wifi
+2305 how can deal with low on space messages on my android
+2310 how will swap partition file affect the system
+2379 how do gmail desktop and talk android chats interact
+2432 how to backup angry birds saves data
+2437 can use multiple android devices with single google account
+2453 where can find open source android apps
+2466 how do backup and restore sms messages
+2492 how can find lost phone or help people return it
+2498 how to read exchange mails on android
+2538 how can manage intent association with apps
+2569 how to unlink the main google account from android device without factory reset
+2575 what is involved in installing android onto device
+2581 reading images of qr codes displayed in the browser
+2603 how can locate my android device around the house
+2650 in camera apps is zoom digital zoom or an optical zoom
+2722 how do prep my rooted and moded phone for resale
+2743 what is the difference between opera mini and opera mobile
+2784 is there an official google reader app with widget
+2843 is there way to get to the numeric keyboard when entering text fields
+2845 my alarm didnt go off this morning
+2868 wearing down battery as fast as possible
+2906 knowing which applications to stop
+2918 how to disable battery full notification sound
+2948 is it possible to change the swipe unlock screen on the galaxy series
+2951 is it possible record videos of my screen
+2969 how do delete draft message sms
+2974 what is the default android root password
+2984 how can see what ip address my android phone has
+2997 do have to charge my phone before use it the first time
+3002 where in the file system are applications installed
+3129 what android syncd data is encrypted
+3134 can use my android device as wi fi adapter for my pc tethering to pc through usb but using wi fi not phone network
+3238 how to type sms in full sized keyboard
+3246 mtp usb device driver error screenshot when connecting my galaxy to my pc in kies mode how can resolve this problem
+3273 how can add photo to contact
+3294 are there any tools to sandbox malware application even more than the granted permissions on android
+3308 audit app permissions easily in one place
+3333 how can make my photos automatically geo tagged
+3366 how does the automatic brightness settings work
+3396 what is the best way to provide feedback to an apps developers and request feature
+3493 how can know which apps are currently connecting to the internet
+3521 is it possible to install android on pc
+3533 how do download pdf documents from gmail
+3537 how do copy text from my pc to my phone
+3579 how to report mis behaving app
+3624 how to deactivate motoblur and undesirable services on motorola defy
+3715 is there command or application similar to ipconfig
+3718 does android have support for ipv6
+3742 is it possible to upgrade my htc legend to froyo without waiting for over the air updates
+3774 quickly send file from phone to pc via internet
+3786 switching from unlimited data plan to pay per data what to watch out
+3830 is there stylus based notepad app for android
+3883 is kismet or another wifi detector available for android
+3978 how do stop apps from installing themselves to my sd card
+3983 how to buy an app for friend
+3998 how can take photo when battery
+4003 when should start charging my lithium battery
+4044 is possible to make symbolic links in the android filesystem and how
+4113 how to set in call volume
+4117 how to share internet among android devices
+4187 can re install purchased app from googles play store
+4206 does the alarm work when my phone is turned off
+4228 how to install custom keyboard in android
+4236 android and antiviruses
+4262 how to stop phone from ringing without rejecting the call
+4285 change application to be launched using voice action
+4351 does nexus one wifi traffic go through google
+4497 can use ext4 on my sd card in non rooted phone
+4546 can connect an android phone to an external monitor keyboard and mouse
+4570 how practical it is to use an android phone bypassing google completely
+4623 have sold my phone on ebay what should do before send it off
+4662 why does google talk never appear on the recent applications list
+4676 how to reduce number of screens on htc sense android phones
+4738 how can be informed through my computer if new sms is received
+4739 whats the reason that the alarm clock isnt working when the phone is turned off
+4814 does google maps navigation for mobile work on verizon android phones
+4829 power draw from gps does granularity affect amount of power drawn
+4878 does official gmail app use secure connection
+4929 is moving apps to sd only available to rooted devices
+4943 how does the phone know it has been docked
+4947 how to set static ip address for wi fi connection
+4955 how to change the account for android market
+4972 how can download android apps by scanning the barcode
+4996 easiest way for testing the internal gps
+5001 app shortcut to quickly change screen lock type
+5006 search on android market website
+5043 do bright wallpapers spend more battery than dark ones
+5044 nfc functionality in google nexus
+5084 how do change the default complete action with
+5103 if pull the battery out the sd card file system crashs all file lost
+5153 is mb month enough for limited use
+5232 how can view the android internal partition table
+5262 why is charging from computer using usb slower than using an outlet
+5273 how can prevent my phone from using any kind of internet
+5295 im looking for way to work offline with google tasks
+5341 know of an app that lets you transfer text message conversation into an email
+5381 how to print screen my application in android phone
+5389 is it possible to run minecraft on an android
+5457 how can connect my samsung galaxy to television
+5566 how can install an app given only its apk file
+5628 why has my android phone stop updating calendars mail etc
+5673 how to factory reset without data loss and undue pain
+5768 why does it take so long for program like mapdroid to use the gps to track you on map
+5830 automatic adjust brightness through out the day
+5884 is there way for me to run adb shell as root without typing in su
+5956 save number during phone call
+5957 is it possible to temporarily disable the screen timeout
+6034 proper pc suite for android
+6042 checked use as default when choosing the default launcher but now cant start adw launcher any more
+6046 what limitations does rooting and or installing rom put on my phone
+6050 how can make google maps cache the map for my entire city
+6063 how do copy pictures onto folder on the home screen
+6088 is there way to move the caret in text box without using the hard keyboard and without bunch of single touches
+6118 open source app for remote wiping android phone
+6199 how do ram and processor speed affect overall performance on android
+6203 regular maintenance to keep the phone running quickly and smoothly
+6233 how can change the user agent for the stock browser
+6268 is possible install eclipse ide in honeycomb
+6324 how to search for files and folders
+6331 converting to multimedia message when forwarding large sms
+6372 how to get hardware specs of android device
+6435 sd card partitioning why how
+6447 does it make any sense to use firmware with htc sense or is better to go for plain firmware
+6458 how would you uninstall rogue home launcher application
+6503 what to do before reformatting phone or setting back to factory state
+6529 whats the purpose of the trackball
+6541 can factory reset fix malware problem
+6558 how can run script on boot
+6567 can gmail notifications be customized by label
+6677 how can control the frequency of synchronization with google
+6693 support for multiple users on same device
+6851 uninstall apps locked by phone vendor
+6900 using or logic in contexts for tasker
+6925 what is the difference between odexed and deodexed roms
+6961 is there way to copy files directly between two android devices on the same wifi network
+6981 how can fix the gps on my samsung galaxy
+7034 can stream video from pc to an android device over usb
+7079 are the apps safe how can make my android more secure
+7099 move paid apps between devices
+7133 how do turn off the cellular radio without disabling bluetooth
+7135 difference between super lcd screen of nexus and super amoled screen of samsung galaxy which is better
+7194 can replace the os of samsung galaxy
+7203 will get automatically lifetime free updates if pay for an app
+7258 are there any specific advantages to using the amazon android app store over the google android market
+7444 if try new email client like k9 mail can go back to my original email just by uninstalling it
+7491 what is 720p video recording
+7586 how do get quick access to common text snippets
+7600 touchscreen triggered by cheek while on the phone
+7602 does anyone knows who is paying for the free normally paid android programs on the amazon store
+7644 cant send picture attachment together with text message any more samsung galaxy any idea why
+7675 is the nexus one battery charged when connected to pc via usb
+7686 is there way to see the devices screen live on pc through adb
+7725 how do permissions work in the android market
+7731 what is an emergency call and can set number for it
+7774 suggestions for syncing data to someone besides google funambol
+7856 wil my htc desire auto adjust for daylight savings
+7898 what should backup before installing new rom
+7916 is there select all functionality in the gmail app
+7982 is there any limit on number of devices you can install apps on from amazon app store
+7997 is there minimum app price at app stores
+8179 gingerbread has drastically reduced my battery life
+8222 can charger not compliant to the usb specification damage my andoid phone
+8235 how do type tabulation character on an xperia
+8280 how to make screen stay turned off when plugging charger
+8301 pdf reader app that remembers the last page you were on
+8312 how can can open local files in the default android browser
+8354 install apk from external sd
+8436 dropbox for android folder location
+8452 how can find app name by uid
+8462 how can search for contact by its phone number
+8570 how to fix invalid imei after factory reset
+8573 what is the fastest way to turn the phone into silent mode
+8692 how can disable auto rotate on my phone
+8694 what does android bring
+8709 how to identify and change apps which are set as startup items
+8759 what is dalvik cache
+8851 unsupported file type why did my samsung galaxy suddenly stop supporting mp3s
+8924 what are loop devices
+8962 about how long will my touchscreen last before it starts to lose sensitivity
+8979 what is the relation between rom manager clockworkmod and nandroid which ones do need
+9085 dvorak on android
+9108 what is data sms
+9163 how do change the time zone which is disabled in honeycomb on samsung galaxy tab
+9229 how does the amazon appstore verify its apps
+9267 upgrading developer phone
+9289 why does taking screen shot require root access
+9312 how can verify the authenticity of an apk file downloaded
+9363 linux program to transfer file from to an android device
+9394 is my ext3 sd partitioning correct
+9422 reinstalling purchased apps on new phone
+9449 how do play mp3s from my dropbox
+9464 other manufacturers usb data cable for charging
+9470 can use gmail while offline
+9497 how can rate an app in honeycomb
+9541 why is insufficient storage wrongly reported when installing an apk via adb
+9545 what are the security disadvantages of rooting an android phone
+9550 galaxy tab is not being charged through usb cable
+9622 how to remove android stock movie player as preferred default app for movies
+9624 what are the benefits of 2g 3g mode
+9727 can use android phones as walkie talkie without internet
+9767 other than portability are there any other advantages or disadvantages to storing apps on external storage
+9815 how can change media volume when no media is being played
+9861 does the htc desire support microsdhc
+9905 is there some ssh server for android
+9963 how to call from console
+9977 how can reliably screen or block callers on number by number basis
+10011 what is my phone doing at oclock in the morning
+10022 how to install hebrew on samsung galaxy vibrant
+10093 disable lock screen enter return button
+10094 if buy an ebook an amazon can my son with another android device read my books
+10124 why does google always need personal data
+10145 how can calibrate the compass on my phone
+10179 how to save and recover icon and folder positions
+10223 change screen timeout to never
+10245 will cyanogenmod run on the htc chacha and is it stable
+10341 what can do with an nexus one with broken lcd
+10365 does gps require clear view of sky to lock satellites
+10443 synchronizing call log with gmail
+10470 how can see only phone contacts not sim contacts
+10707 how can detect my phones screen resolution
+10790 can remove microsd card with my android phone turned on
+10930 why do we need rooted phone to capture screenshots on older versions of android
+10996 block all sounds going out through speaker when headphone connected
+11352 google plus application for android
+11389 app to ask question on stackexchange
+11400 what are the names of the various versions of the android os and how are these names chosen
+11761 can phone manufacturers custom interface be changed
+12207 can you run linux command line apps on android
+12259 whats this icon that looks like vertical waves in the status bar of my droid
+12320 is the data associated with an app cleared when an app is uninstalled
+12330 how can download an apk file from the play store
+12492 reusing old android phone
+12503 subversion client on my tablet asus transformer
+12538 how can circumvent regional restrictions in googles play store
+12608 is there way to block access to or wipe my google data for lost stolen phone
+12616 can we use an android phone as wi fi repeater
+12639 what do say to make new line when using voice recognition
+12741 what are the location based alarm applications available for android
+12765 what is this system icon that looks like plus inside diamond with three curved lines extending from its right side on samsung
+12802 factory reset to restore performance what are the disadvantages
+12836 how to move contacts and other data from symbian to android
+12924 can send retrieve mms messages via wifi
+12961 command to install app from phone
+12962 how can flush the dns cache
+13003 automatically dim screen at specific times
+13183 how can remove trusted cas on android
+13202 will lose root access on my incredible if install the gingerbread ota update
+13335 how can tell if have root
+13375 prevent apps being uninstalled
+13448 is my phone liable to explode if charge it with charger that came with different phone
+13521 new facebook app activates gps when launched how to disable
+13533 how can merge contacts in cyanogenmod
+13662 how to set mp3 ringtone in android nexus
+13839 power saving tips for galaxy s2 that dont involve turning it into dumbphone
+14046 android usb reverse tethering how to fool the apps
+14105 how can determine storage directory from adb
+14219 my phone just notified me that kickback and soundback were updated what are they
+14231 how can get overview and manage the default applications for file types
+14249 how to block ads in android applications
+14371 will damage my android device by charging it using generic microusb car adapter
+14430 how can view and examine the android log
+14530 whats the android equivalent of etc fstab
+14552 micro usb cables that only charge but no data no mounting etc samsung galaxy
+14676 what android app replicates the iphone siri voice recognition functionality
+14695 how to type question mark without using the shift key in swype
+14766 when will my device get the android update ice cream sandwich
+14884 how can get googles two step verification to work
+14910 where can find older versions of apps
+14929 is cyanogenmod rooting the phone
+14942 is it possible to use the camera without unlocking first
+14949 how can force the market to reinstall an installed app
+14958 should apps take up any internal storage when installed to sd
+15049 how to upgrade swap sd card without losing data and installed apps
+15126 is it possible to continue upgrading an android device if the oem stops supporting it
+15383 how does the gps work on android phones
+15552 html signature in gmail app
+15666 low on space warning with over free
+15701 what happens to running program when home button is pressed in android phone
+15801 is there hardware reset for the galaxy
+15812 restrictions of kindle fire in canada
+15877 better way to connect galaxy nexus ics to linux
+15945 can safely uninstall flash and facebook apps
+16022 what does locking an sms message do
+16250 what is usb debugging can keep it on forever
+16315 how do tell if my phone has carrier iq software on it
+16698 securing young childs tablet
+16847 guide to editing etc hosts
+16915 where on the file system are sms messages stored
+17128 how to change default application in ice cream sandwich
+17152 where can find stock or custom roms for my android device
+17185 how to decide whether system update should be installed
+17210 wi fi icon next to apps in android market
+17224 undo android aka ice cream sandwich full disk encryption
+17319 how can make my samsung galaxy nexus volume go louder than what stock allows
+17320 how to edit the me contact
+17338 how can get the android market installed on my kindle fire
+17529 how can distinguish important calls
+17584 how do root my kindle fire
+17745 is there real time wifi traffic analyzer for android
+17760 where can find thorough introduction to android
+17778 whats good if found wallpaper for android
+17801 google mail missing in cyanogenmod gapps
+17871 what are the differences between system app and user app
+18111 how can do development on my android device
+18153 how to prevent adb shell from exiting upon ctrl
+18232 is this red star icon malware how to get rid of it
+18242 is there an android phone without proprietary code
+18269 what does it mean the wifi label on the market
+18392 stop automaticaly switching to 3g if wi fi drops
+18450 where is the background image saved
+18469 is android single task or multitasking and multithreading
+18529 how do check who is connecting to my hotspot
+18601 what exactly is superuser apk and su
+18644 my phone was just stolen an hour or so ago are there any options for tracking
+18892 how can determine the cause of random device reboots
+18948 cyanogenmod why doesnt market self upgrade
+19000 is there way to permanently turn off google maps until needed
+19112 reset ringtone picker preferences
+19146 how to clear all applications data in android
+19274 on android can write scripts similar to win bat files to combine several command line commands
+19286 will custom recovery work with an encrypted device
+19339 any success with external microphones for android phones or tablets
+19368 how do use an external microphone with my galaxy nexus
+19526 is there an xmpp jabber client for android that supports video calling
+19558 emacs on android
+19566 how do disable the select input method notification
+19673 where does google music store the offline tracks
+19674 move angry birds progress from one device to another cross platform
+19710 is it possible to write to devices clipboard using adb
+19821 is it possible to determine whether the phone has been rooted or not
+19935 how to keep two versions of an app installed
+19987 what actually happens when you swipe an app out of the recent apps list
+20066 show only contacts with phone number filter missing in android
+20135 what does the modify delete usb storage contents permission really mean
+20151 how to remote control google doc presentation
+20264 how to force samsung galaxy tab to shutdown
+20369 getting authentication is required when trying to access the play store
+20457 how to clear the keyboard autocomplete suggestions
+20487 can use arrow keys
+20504 can share my google play cloud music with family member
+20599 is it posible to change the locale of my device
+20619 how to search the play store by permissions
+20670 access android devices file system over bluetooth or wi fi
+20713 why does the ics dialer have letters next to the numbers
+20732 how to remove apps from all downloaded in play store
+20733 can anyone recognize this app toggles wifi gps sync bt etc in the notification bar
+20857 how to change country
+20927 what does the voice privacy setting do
+21019 battery do they last longer if recharged when empty
+21112 new phone how to transfer game progress
+21144 how much power does galaxy tab charger need to supply
+21149 why do need gmail account to use android
+21171 do phones have power supply
+21296 how can find saved wi fi password
+21307 if root my phone can my service providor tell if am using my phone for usb tethering or as wifi hotspot
+21320 can restart bluetooth from the terminal
+21449 titanium backup vs android data backup
+21460 what does fastboot oem lock do
+21513 how to set up tablet to use local dns server thru vpn rather than googles dns
+21534 hide successfully updated notifications from google play market
+21566 whats the risk of installing cyanogen mod on unsupported phone
+21645 how do train face unlock
+21750 google reader app that fetches the full article content
+21803 how to install new recovery image from img file
+21937 how to enable silent mode during calendar events
+21971 how do disable the stock gallery app
+22148 if use free wifi in hotspot can data be easily sniffed
+22189 link to app will not open in google play
+22282 does ics gmail display unread message counts for labels other than inbox
+22372 where to add ssh keys to allow connections to remote server on android
+22718 how to force cancel running download
+22848 what does avoided poor internet connection mean
+22884 how does rooting work
+22997 can you upgrade the ram of an android device
+23209 cut power to phone without removable battery
+23357 is there way to look inside and modify an adb backup created file
+23572 how to tell current frequency band
+23582 will rooting my phone improve its battery life
+23622 how do keep my android phone awake when usb connected
+23640 can remotely launch an app on my android phone
+23838 how can split the virtual keyboard when typing on large display in landscape mode
+23938 android versions without drm
+24119 command to list partitions
+24231 in what directory does the dolphin hd browser store its files
+24249 how do disable receiving calls and messages
+24331 add contact without using google account
+24341 security options grayed out
+24378 what is the difference between usb charging and ac charging
+24436 my android device has been splashed soaked by sea water
+24522 is there way to adjust the size of the text when reading pdf files
+24525 why is custom recovery prerequisite for flashing custom rom
+24563 how can change screen timeout based on whether my phone is not charging
+24617 does google navigation work offline
+24705 losing connectivity with my carrier how can reconnect
+24756 is this virus
+24802 remove credit card from google wallet will it affect purchased apps
+24922 why can the nexus display so much more content on screen than the galaxy nexus
+24979 persistent google sign in error even with correct password
+25096 android apps keep crashing with android database sqlite sqlitediskioexception
+25178 can an android text message set off an alarm
+25183 how do edit my home address for google now maps latitude
+25201 video player app for mkv
+25263 where can find out when installed an app
+25470 is there way to force an app to remain running in the background no matter what
+25480 why is the nfc in the galaxy nexus battery
+25623 what does mean in the signal indicator
+25843 google currents vs google reader
+25902 how to connect adb over 3g 4g
+25999 is there an app for searching installed apps dumb search alternative
+26001 where is stay awake option in ice cream sandwich on the galaxy s3
+26105 determining support for bluetooth low energy
+26157 how to find out the variant of my galaxy nexus
+26209 nexus screen is flickering
+26393 cant buy any paid apps on google play store shows an error occurred please try again
+26456 what is the difference between the email app and the gmail app
+26535 where can find list of the default emoticons on ice cream sandwich
+26733 where can check how much internet bandwidth did my htc desire use
+26809 is there way to turn off translation in google play
+26885 how do avoid the server specified security policies for my work mail
+27071 what is this wvm file and can get rid of it
+27127 something is secretly eating up my acer iconia a500 internal memory and need help finding it
+27156 is it possible to have multiple instances of the same app logged in to different accounts
+27166 can configure google play to see app reviews in several languages
+27232 what is the cache partition
+27277 why my phone battery has four terminal what is the use of the fourth
+27395 why are there so many different android kernels technical answer please
+27484 how to get maps for off line usage
+27581 which consumes less battery wi fi or 2g data
+27689 why does android have antivirus apps while ios does not
+27690 is it possible for my mobile carrier to track my wifi usage and bill me accordingly
+27746 where to find pin lock screen that scrambles the keypad on every use
+27766 can my android device become remotely and without my permission wiretap and get used as surveillance device
+27808 how can install the google apps package play store on my android device
+27815 how can control which apps are able to use the data connection while roaming
+28080 how can study or prepare myself for an exam with the help of my android device
+28087 how can bulk install apps with play store or app brain
+28100 android os is continuously downloading something in the background how can stop that
+28221 why android cant be just mounted
+28225 no audio out with headphones
+28296 how to fully backup non rooted devices
+28325 pause android logcat output
+28451 will dropbox delete files from my online storage
+28529 is wi fi always favoured over other data connections
+28567 how to reset wi fi settings
+28686 what is the fastest way to transfer huge files beween two android powered devices
+28801 what does the ambient light sensor look like
+28851 increase vibrate strength
+28884 how to delete backups made using clockworkmod
+28891 closing applications
+28893 does poor reception deplete the battery quicker
+28927 what android os version is on the kindle fire hd
+29073 battery life and first time charging on li ion batteries myth
+29192 how is the gmail password stored in android and where
+29255 how does the app battery repair work
+29291 wi fi connection dropping
+29359 how to prevent applications from discovering my phone as being rooted
+29416 my internal storage capacity is running low what can do
+29460 would apple earpods work on my android phone
+29547 why does my hotspot stop after period of time
+29598 how do recalibrate the battery of my phone
+29601 how do check the class of micro sd card
+29741 what does it mean to brick your phone
+29952 cant connect to the device with adb when its in recovery mode
+29962 what encoding is text messaging in
+30098 how to run specific apps action via terminal
+30136 what is system partition how its size is fixed can it be resized
+30157 how to return to the home screen with terminal command
+30204 how can add shortcut to particular google drive document to my android homescreen
+30207 what is the format of androids logs
+30329 how does compass calibration work
+30346 what exactly is synced with google
+30355 leaving work profile for tasker
+30551 how to listen itunes podcasts on android
+30728 how do google play app updates work are they free
+32211 can run webserver on an android device
+32285 how does freezing an app work technically
+32366 which browser does support proxies
+32697 what is the offical name of the third on screen button
+32892 can set the alarm to stop after some time
+33142 is there no way to get scripts to run in android
+33276 how to start browser in incognito mode by default
+33324 can you use the nexus without sim card
+33702 google play fails to install application with rpc aec
+33704 how frequently is it okay to let the battery discharge fully or as low as possible
+33916 how to resume app restore after stopping it on first opening google play
+33994 what is the length and breadth of only the screen in the nexus
+34154 auto rotate only for youtube app disabled otherwise
+34186 how to enable the daydream feature in the nexus10
+34230 how could sync only my calendar with gmail optionally when wifi connection is available
+34301 whats the difference between adb push and adb install
+34358 what is yakju gn yakjuxw takju etc
+34454 can someone identify this icon looks like ear in the notification bar
+34524 keep getting error retrieving information from server rh from the play store
+34613 what the do do to make the swipe keyboard stop censoring me
+34625 where to find description of all system bin service calls
+34687 back up not only games but also game progress before flashing roms
+34757 is there simple way to undo an app update
+34782 where do find the minimum requirements for an app
+34969 how to deal with orphaned wakelocks
+35093 mediaserver using excessive cpu time and battery
+35313 unable to connect galaxy s3 to pc via usb
+35343 can we connect normal earphone headphone to android device
+35411 limited internal storage how to shift stuff to sd card
+35499 is it safe to provide users with the apk file
+35580 how can transfer photos to my android jelly bean device while preserving the original timestamp
+35657 does the google play app always updates automatically
+35658 adb permission denied to run configure file
+35716 is it possible to set devices latitude and longitude using adb shell
+35758 how to view the android service menu secret menu
+35847 can not unlock my android device as have no internet connection
+35852 is there way to log off from your android tablet user account
+36220 nexus is stuck in reboot loop after full discharge
+36291 is android bit or bit os
+36311 show an apps context menu on nexus
+36329 how to reboot an android device without using power button
+37307 how do sync with dropbox
+37499 droidwall and wireless tethering
+37834 how can make toast notifications stay on screen longer
+37877 why is root access required for custom rom
+37970 what can play ogg opus on android
+38129 can stop whatsapp message from being delivered
+38297 can prevent home screen shortcuts from getting deleted or moved around
+38363 how to stop the viber process
+38760 how to switch on off system load and running processes overlay
+38790 is it possible to install higher android version on phone and have it still running smoothly
+39138 why does jelly bean no longer support flash
+39230 how do scroll to the top of list
+39499 quickly send an email
+39548 red notification light on nexus wont power on device unresponsive
+39649 must install google apps again after installing new rom
+39851 how to stop android asking for permission before permitting access to usb device
+40062 how do check if have cyanogenmod on my phone
+40147 is it possible to enable location services via shell
+40357 resize photo before sending it by email
+40419 is it possible to boot an android phone from usb drive
+40459 how to pull only newer files with adb pull android sdk utility
+40719 where are android settings stored
+40934 use an android tablet as wacom drawing tablet for pc
+40990 how do push notifications work
+41463 how to force google instant upload to perform an upload right away
+41859 why doesnt my android start daydreaming
+42079 differences between osmand and osmand
+42129 why each android application runs on different dalvik vm process
+42245 google backup multiple devices using the same account what happens on restore
+42347 how do change the google play country
+42474 is there minimal installation of adb
+42642 fast easy reliable way to transfer large files between android devices aka wifi direct stories from the field
+42706 is there any way to re render photosphere
+42749 how to stop google keep from seeing numeric data as phone numbers
+42958 can restore downloaded paid apps after factory reset
+42983 how can install apk file on bluestacks app player
+43361 what information does stock android send to google by default and how do opt out
+43410 what does trwp backup include
+43436 can share google keep notes between people
+43444 listen which urls an app tries to connect
+43462 how to disable duplicate calendar notifications
+43517 installing to sdcard by default
+43865 where do apn come from
+43892 on system restore will lose my software updates
+43970 how is whatsapp able to receive messages when not in use
+44037 whats the use case of proximity sensor
+44293 what does permission manage accounts mean
+44443 how to get the enter return key in messaging mms app jelly bean
+44592 why does facebook home not require any permission
+44677 how to change my device location on the play store
+45070 starting an activity listed under settings from terminal or adb shell
+45093 where does google now get its weather data
+45601 activate device administrator via adb
+45779 getting double message notifications after replacing talk with hangouts
+46142 fastboot doesnt see device
+46214 why are some usb chargers slower than others
+46315 not all files are visible over mtp
+46979 how can increase the number of volume levels
+47157 how can display my android on my pc monitor
+47448 what does voice command unexpected server error occurred please try again mean
+47819 how can phone companies detect tethering incl wifi hotspot
+47886 how do undo always display images from this sender on android gmail
+47924 where android apps store data
+48085 whatsapp doesnt work over 3geverything else works fine
+48837 use bluetooth keyboard with different layout
+48901 get offline maps in new google maps
+48935 my new android device not showing up in google play
+49053 toggling usb mass storage on or off via adb commands
+50221 drag to change route in google maps
+50223 converting an existing user to restricted profile
+50491 what is the difference between aosp and aokp
+51065 heimdall errors error partition recovery does not exist in the specified pit
+51583 be notified of an update to an app that is not installed
+51689 how many devices does one purchase of android app support
+51739 what is snapshot and use host gpu emulation options for
+52179 does the new nexus have glonass sensor
+52184 what causes my android phone to heat on low signal
+52339 where is restricted users home directory for nexus jb
+52596 how do you skip the pin to go directly to the camera from the lock screen
+52833 block calls for everyone except for contacts
+53064 how can ensure reliable updates for an android phone device
+53225 how to find the pathname of the swap partition on sd card
+53601 is it possible to root my phone without installing custom rom
+54025 how to know if side loaded app is safe
+54149 how to use nfc tags to trigger profiles and tasks in tasker
+54771 supersu vs root
+54806 lg g2 debugging mode not enabled
+55666 can there be malicious apps on google play
+56620 enable and disable system apps via adb
+56635 how can export the list of open chrome tabs
+56838 how can change the data usage cycle for mobile data
+57913 how do refresh rescan the sd memory in android kitkat
+58168 why am constantly running out of space on my galaxy s2
+58203 how do disable facebooks log in to sync applications notification when the phone turns on
+58405 what is cyanogenmod and how is it different from android
+58594 how do wi fi only android devices synchronise time
+59403 how can force dropbox to upload even if the charge is low
+60826 allow auto update of only single app
+60894 in google account sync what is the difference between contacts and people details
+60897 storage space running out some system functions may not work
+60906 terminal on real android device from pc
+61115 how do remove an incorrect word from autocorrect
+61541 installing an app from play store using the command line
+61641 why is my galaxy s4 still not appearing as device in mac os
+61818 how can use enter to send from bluetooth keyboard
+61957 this item cannot be installed in your devices country
+61967 adb does not see connected samsung s4
+62210 how to add custom lock for the recovery and or bootloader
+62387 are there any downsides or risks to limiting background processes
+62982 flashing cm get set metadata recursive some changes failed
+63170 how can physically remove the internal memory device from my samsung galaxy s2
+63630 why are there not generic phone os installers
+63748 why did google block facebook contact sync on the nexus
+63758 how do edit contacts in android
+64353 how to batch install apks from computer to android without actually touching my android
+64692 is it good idea useful to use two anti virus apps on android
+64799 installing app without copying apk file
+65557 is there technical reason android update story is so bad
+65922 how to uninstall not installed apps
+66192 will wiping data from recovery while flashing rom on device with non sd slot also wipe user data
+66250 is there way to completely disable the dialer including emergency calls to make an old phone tablet
+67121 how ram usage effects battery drain
+67157 how does the heartbleed security vulnerability affect my android device
+67237 prevent google play from reinstalling apps after factory reset
+68447 what is this fingerprint bar on my phone
+68611 replacement for ability to send tab to remote device as removed from firefox
+69009 wheres exactly the nfc area in the nexus
+69045 what is the difference between dual sim active and dual sim stand by
+69076 how to delete the entered number during call
+69108 how to start root shell with android studio
+69391 how do cleanup all information backed up from my phone
+70225 disabling mtp ptp all usb stuff except charging
+72855 can the receive sms permission be used to intercept sms messages
+73005 how can easily share links or text between my android phone and my laptop
+73168 how to use windows internet on android phone through usb cable
+74618 how safe is it to use aptoide
+75360 is it possible to backup apk from an installed application
+75510 adb pull data fails
+77309 is there way to know the actual permissions of an app now before installing
+77423 folder that automatically uploads to phone
+79112 resize system partition of galaxy
+81692 download maps me mapswithme offline map from pc
+81769 removing all google data except the play store
+82313 how does reducing brightness of screen increase battery life
+82339 how to cancel download on android kitkat
+85290 what is this folder named d1o1m0o7b1i1le is it virus
+86920 ota update on rooted nexus5 with custom recovery and kernel
+87167 how do you merge decks in anki
+87410 is there way to get disk image of the user storage space on modern android devices
+87897 bypass swipe up to unlock on android lollipop lock screen
+88088 why cant use my fitbit for smart lock
+88120 persistent notification for calendar events
+88263 nexus smart lock trusted places is not there
+88306 how can disable the screen lock password in lollipop
+88431 lollipops trusted face can be bypassed by camera
+88633 lollipop mute notifications but not calls
+88909 how can disable notification for specific gmail account during certain hours
+88923 ac3 codec for mx player
+89020 how to get black keyboard layout for lollipop keyboard
+89622 how to use gps without using google location services
+89737 storage space and memory mobile phone architecture versus pc architecture
+90141 obtain package name and common name of apps via adb
+90152 gps readings why is altitude inaccurate by 50m while longitude and latitude are more precise
+90250 what does the aggressive wi fi to cellular handover option in developer settings do
+91656 is this notification that keeps coming up on my phone virus
+91888 how to close all background apps at once in android lollipop
+92480 can damage my phone by doing android programming on it
+92565 how to list all major partitions with their labels
+93609 can play high end games on my rooted low end phone
+93846 is it possible to set up google account for gmail only
+95192 open youtubes saved offline video exo file
+95678 which filesystem does android attach to the root directory
+95753 how to know how long my smartphone is running
+95975 how can disable stock app that has its disable button greyed out
+96253 create new labels in gmail app
+96546 why cant scan the whatsapp qr
+97304 how to use img file instead of gz or pit file with heimdall
+97893 unable to install certificate
+100657 how to disable captive portal detection how to remove exclamation mark on wi fi or signal icon in lollipop
+100726 swype quick emoji input list
+100991 how do skip an android system update and stop its notifications
+101498 google voice sms not showing notifications in hangouts
+102821 is there way to remove the guest account
+103328 how does phone store date and time even when the battery is removed
+104585 are applications from unknown sources restricted by permissions
+104842 is it safe to uninstall google play services app
+105503 how to transfer files between bluestacks and windows pc
+105902 how to disable heads up notifications in android lollipop notification popup at top of the screen
+106028 moving installation location on non rooted android lollipop device
+107107 how can complete web page be saved and viewed on an android device
+107196 how do temporarily edit webpage in chrome
+108926 what is the difference between application cache and data
+109833 images have disappeared from gallery but still in my files samsung galaxy s6 edge
+110041 why does android boot relatively so slow
+110939 is it possible to have the auto rotate feature turned on or off by app
+111307 remove user account in android on galaxy s4
+111525 should dalvik cache be wiped in android os that supports art
+111836 any way to have location services turn itself off after time limit
+112040 how to enable usb debugging in android if forgotten pattern for screen unlock
+113387 how to run an apk without installing it on the device with adb
+115020 how to extract stock apk from twrp backup
+115786 how to retrieve saved password in google chrome for android
+116473 stagefright security issue what can regular user do to mitigate the issue without patch
+117588 what does rooting bootloader twrp and recovery mean
+118741 how to use gps to remind me to shop for something
+120394 can enable usb debugging using adb
+121069 transfer line account from phone to another without losing friends and chat history
+123129 how does wifi in android detect if the device has to sign in or not
+123695 why do different android phones with the same camera specs have different picture quality
+123765 canceling the sending of queued email in gmail for android
+124344 trying to flash system img took with dd failing
+125121 mount android encrypted data partition on pc
+125140 marshmallow usb connection type
+125250 how to have two applications play sound simultaneously
+125339 google now swipe from home button is not working in marshmallow
+125719 bugreport location
+126019 turn off vibration for sign in to wifi network notification
+126117 how to enable the landscape mode on the default launcher on android marshmallow
+129074 is there way to exclude an app from doze
+129174 windows fastboot driver
+129886 com android phone has stopped after dirty flashing cm13
+130922 can delete old whatsapp database backup without affecting the chat
+131545 bought new battery do need to calibrate it
+131851 what specifically prevents otas from being taken on modified systems and why cant it be shut off
+131931 default usb mtp for android
+132368 how to tell if phones rom is original or tampered
+132708 what does cwm back up
+132753 systemless root
+134561 what is the difference between remix os and phoenix os
+134927 how to remove virus that installs an unlimited amount of apps causing the smartphone to stop once an internet connection has been established
+136711 what versions of youtube for android support fast forward and rewind
+137895 can fastboot be used to backup device
+137963 remove most frequently used apps container from apps menu
+138311 in android how to deny an app permission to access the network
+139347 run downloaded shell command without root
+139498 es file explorer shows empty data folder
+140244 on device calendar exists
+141382 is it dangerous to remove company brand boot logo
+141885 ad blocking without rooting or low risk rooting
+143330 what is this lock screen with ads and how do remove it
+143490 how can export all my open firefox tabs to text file
+143685 after flashing twrp with odin nothing happens and the oem recovery is still there
+144951 facebook mobile website tries to open messenger all the time
+145273 does using android instant apps count as installation on play store
+146291 how do android apps implement the share button
+149942 is music bought from google play music drm free
+152087 any security difference between root based firewall afwall and non root based ones netguard
+154077 how to make google chrome definitely remain as the desktop version
+155659 gb ram or gb ram does it really matter
+160091 why doesnt huawei provide just the usb driver to use adb
+165399 new gboard dual language suggestions how do disable it
+165605 what permissions are granted to an app with device administration privileges
+168085 any downsides to disabling the gmail app
+168263 where does lineageos store update files
+171202 extracting data from twrp backup
+172292 how are shareit xender etc able to install apk without requiring unknown source permission
+172837 how to view devices connected to hotspot on google pixel
+174463 meaning of connected no internet
+176092 how to check the current platform of android os
+176501 why do android phones have more cores than computers
+176756 how to flash android image in moto g4 plus
+181711 android smart lock why is there no option to use wifi
+181869 what is this shadow called and whats the purpose
+185116 enable install via usb without creating mi account
+186334 what percentage of android devices runs on x86 architecture
+187373 can s7 wall charger be used on s8
+189335 how can disable app is running in the background notifications
+189450 stop auto selecting cellular network
+191513 find the imei number of lost android phone
+197232 lost phone enable secure erase
+201491 why would enable install unknown apps
+202491 what do the numbers and letters in the samsung firmware mean
+204724 get on screen when trying to access developer options
+205430 what is storage emulated
+206625 how to find out stolen phone of android by using imei number
+213167 how magisk works
+214816 is this android phone android or android
+216085 how is the list of apps allowed to install another apps populated
+216714 how do certain apps show new notifications when internet access is restricted to them
+217955 how to call my own phone with loud ringing tone in order to find it in my house even if it is in silent mode
+218273 google just eoled the original pixel how long until its brick
