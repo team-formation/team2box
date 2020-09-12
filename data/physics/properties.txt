@@ -1,0 +1,1 @@
+vocab size=31616 train=4421 test=491 validation=205 qmaxlen=20 answermaxlen=100
