@@ -1,0 +1,2906 @@
+2 how can group track database schema changes
+5 what are the differences between nosql and traditional rdbms
+14 when is the right time to use mariadb instead of mysql and why
+20 how can optimize mysqldump of large database
+21 is it possible to use sqlite as client server database
+29 where are some useful sql puzzles to teach sql in workplace
+33 where can find the mysql slow log
+36 are there any mysql benchmarking tools
+43 how to create conditional index in mysql
+46 what does index mean on rdbmss
+47 downgrading from sql server to
+48 traversing tree like data in relational database using sql
+56 how to determine if an index is required or necessary
+59 when to use null and when to use an empty string
+62 how to structure model to properly and efficiently represent tree like data on relational databases
+63 null or not null by default
+64 is there best practices type process for developers to follow for database changes
+81 how to find the latest sql statements within the database
+82 comfortable sqlplus interface
+86 alternative database tools for web admin
+93 what does the output of join statement look like
+94 securing db passwords
+111 do higher normalized forms always meet the criteria of lower ones
+123 what are some ways to implement many to many relationship in data warehouse
+126 what are the main causes of deadlocks and can they be prevented
+127 do stored procedures prevent sql injection
+135 how can use an etl
+144 when should use unique constraint instead of unique index
+152 database backups in oracle export the database or use other tools
+153 what is the difference between an inner join and an outer join
+194 how do you tune mysql for heavy innodb workload
+197 do need separate indexes for each type of query or will one multi column index work
+201 which databases are recommended to be used as embedded databases
+232 character vs integer primary keys
+239 storing vs calculating aggregate values
+252 is there performance gain by handling data with stored procedures versus feeding it into functions after retrieval
+255 which collation should choose for muiti language website
+262 is there good rule of thumb for translating explain cost to wall clock runtime
+264 guid vs int which is better as primary key
+270 task scheduler for sql server express
+283 how do you version your oracle database changes
+287 is this new common pattern in oracle where exists select null from
+299 why is os authentication considered poor security for oracle databases
+309 code to simulate deadlock
+310 speeding up conversion of myisam to innodb
+320 what is the recommended raid configuration for an oracle database
+321 dynamic sql in mysql stored routines
+322 what are the drawbacks with using uuid or guid as primary key
+337 how to change sql server collation
+338 can change the sid of an oracle database
+351 how do change the instance name in ms sql without installing new instance
+358 how do shrink all files quickly for all databases
+364 sql server log files have minimum sizes what gives and how do make them smaller
+381 what is the meaning of dop in the context of sql server
+385 is it common practice to mix innodb and myisam tables on same server
+390 is there anybody using the sql server feature to create groups of stored procedures differentiated by number
+394 which database engines will allow me to grant revoke on specific column
+401 what is sql server denali whats new
+405 what is the difference between sys and system accounts in oracle databases
+409 is oracle not suited as the database behind websites like stackoverflow
+411 what security threats does the sa account and other known account names pose to security
+431 what is the significance of semicolon at the end of sql plus commands
+434 how does database use the sys schema even when we change the password
+435 how does the oracle dual table work
+440 how do convert row table from myisam to innodb without going offline for several hours
+442 did anybody use sqlcmd mode in practice
+445 what learning resources are there for part time dbas
+461 duplicate column for faster queries
+467 ms sql server how to improve performance after deleting transaction log file
+468 how to change the firing order of triggers
+482 how can tell why an insert on certain table is slow
+486 are there any professional fulltime postgresql dbas
+505 how far should you go with normalization
+511 how do list or search all the column names in my database
+530 how do you clear out all old query plans from within microsoft sql server
+545 is it unwise to run replication on same physical server
+550 can create index on table in mysql database while in use
+561 good resources on operating administering mongodb
+567 how do find out if procedure or function exists in mysql database
+573 ssds with oracle
+581 is create index in mysql linear operation
+586 cant rename columns in postgresql views with create or replace
+598 unique constraints on nullable columns in sql server
+606 sql server management studio for remote database
+612 randomizing table contents and storing them back in the table
+629 passing array parameters to stored procedure
+647 what kind of hardware software config should look at for mysql database with plus tables
+651 emulate regexp like behaviour in db2 sql
+653 calculating percentage of row over total sum
+659 how to get rid of ora message the password will expire within days
+667 building dynamic oracle where clause
+668 audit logins on mysql database
+682 how do search to see if mysql user exists on the system
+688 replicating remote mysql database to ms sql server
+692 sql server cross database performance on same physical machine and server instance
+696 eliminate duplicates in listagg oracle
+710 best way to delete very large recordset in oracle
+712 what is the best query to use to monitor sql server databases status
+728 multi database object oriented proxy
+736 is it better to store images in blob or just the url
+742 possible to run two dbcc indexdefrag commands simultaneously each on different table
+756 find out what queries are causing the biggest amount of network traffic
+760 is there any benefit of primary key that comprises all columns of the table
+763 why would someone put where in query
+771 is there any tangible difference between unique clustered index and clustered primary key
+788 is it good idea approach to index varchar column
+790 building dynamic sql server where clause
+808 what are database statistics and how can benefit from them
+817 is there way to programmatically script all objects associated with given table
+818 using sql profiler on database thats in production
+845 calling sql loader from sql plus
+854 rebuilding the transaction log
+858 why wont some dbmss allow rollback for certain ddl statements
+861 optimize this sql query for performance
+872 mysql index when joining to tables not being used performance optimizing question
+888 whats the best way to track updated by updated on
+907 how to execute sql against all dbs on server
+916 how do copy table with select into but ignore the identity property
+917 pros and cons of sql server back up strategies and their appropriate usage scenarios
+940 how do determine if table exists in sql server database in sql server
+955 what is the best way to get random ordering
+956 resolving issue with mysql proc after upgrading mysql from to
+973 oracle creating er diagrams and data dictionaries
+983 what to do when field in table approaches the max signed or unsigned bit integer
+1014 how different are the top db vendors sql dml dialects from each other
+1018 mysql drop table starting with prefix
+1021 how to restore multiple backups
+1031 how do you handle adding nullable columns to each other in query
+1038 moving tables to another sql2008 database including indexes triggers etc
+1040 software engineers and dbas
+1043 what problems will get creating database per customer
+1044 impact of redgate sql search on server
+1083 like to select the independent existence of the word whereever in the text
+1099 why are so many mpp solutions based on postgresql instead of mysql
+1121 how to differentiate between sql and pl sql
+1126 does separating varchar values based on size have performance gain
+1141 is there any trick that allows to use management studios ver intellisense feature with earlier versions of sql server
+1144 how do you approach refactoring an ugly procedure query
+1166 is it okay to put dots in sql server database names
+1170 oracle sql case in where clause
+1183 examples of sql transaction procedures for sales tracking or financial database
+1201 why do we need to backup oracle archive logs along with datafiles
+1206 how to implement an entity with an unknown maximum number of attributes
+1215 how do replace this where clause with join
+1229 how do you calculate mysql max connections variable
+1230 how do rename my local sql development server
+1245 is the ado net entity framework known for generating poorly performing queries
+1261 how to safely change mysql innodb variable innodb log file size
+1281 how do specify that column should be auto incremented in pgadmin
+1282 how do get progress for type db sql mysql
+1283 are there any good and free tools for managing postgresql database
+1285 how do list all databases and tables using psql
+1298 migrating from ntext to nvarcharmax
+1301 what is the difference between oracles varchar and varchar2 datatypes
+1305 what is the difference between terminating an oracle sql statement with semicolon or with slash on the next line
+1326 why does importing gb sql file take more than hours
+1346 database for digital assets
+1359 sql server filegroup for system tables only
+1371 problem with mysql subquery
+1410 how do implement database table as stack
+1423 needing database design book
+1426 how to get the current date without the time part
+1437 are there opensource hierarchical database management systems
+1457 what is your workflow for planning data migration
+1467 postgresql create table error
+1485 how can tell what recovery model my sql database has
+1493 how to insert multiple records using xml in sql server
+1497 how to improve innodb delete performance
+1523 what does nls in nls date format stand for
+1527 open source business intelligence dwh solutions
+1547 how to implement paging in an effective way
+1554 what are the best practices for running sql server in virtual machine
+1570 is polling the only way for updating apps data from database
+1577 find queries that are causing waits
+1584 is avoid creating clustered index based on an incrementing key myth from sql server days
+1592 installing default mysql tables in windows mysql install db
+1632 identity columns or udf that explicitly generates unique id
+1635 why are denali sequences supposed to perform better than identity columns
+1637 what standard should follow when naming tables and views
+1654 how to index many to many table most effectively
+1656 sql server agent error
+1677 is there any good tool for making database design and prototypes
+1692 dbms redefinition vs exchange partition in oracle
+1694 storing ip address
+1699 index vs partition
+1705 when to use mysql query cache
+1714 sql server performance sudden degradation
+1726 tracing debugging and fixing row lock contentions
+1728 how to wrap long lines when selecting sql text columns
+1732 database model with users roles and rights
+1742 how to insert file data into postgresql bytea column
+1750 methods of speeding up huge delete from table with no clauses
+1755 multidimensional indices in databases
+1765 displaying query plans in server management studio
+1767 how do long columns impact performance and disk usage
+1775 matching single column against multiple values without self joining table in mysql
+1792 in mysql does the order of the columns in where clause affect query performance
+1805 executing same request from vs ssms give different execution time
+1811 what are reasons not to use the memory storage engine in mysql
+1814 ms sql differential backup size jumps
+1847 resources for sql server developer migrating to oracle
+1866 how does nhibernate handle execution plan
+1876 execution plan basics hash match confusion
+1883 how do install pgcrypto in postgresql
+1910 why use an int as lookup tables primary key
+1927 why does mysql say im out of memory
+1942 how do switch off schemabinding for view without recreating it
+1998 import column csv files to some sort of db preliminary planning
+2009 when to use xml data type
+2041 postgresql force data into memory
+2050 how can tell if sql server database is still being used
+2063 why does this query cause deadlock
+2072 any open source free etl out there
+2084 sql server huge db issue
+2109 how to store days of web server logs in sql server
+2124 tsql find queries causing too many sql compilations and sql recompilations seperately
+2137 what is hitting your db
+2174 sql server suspect database
+2195 how is like implemented
+2296 what is the best method to add error handling in sql stored procs
+2342 what is atomic relation in first normal form
+2357 what are the differences between stored procedures and stored functions
+2361 max for each subset
+2387 sql server cannot drop database dbname because it is currently in use but no sessions displayed
+2471 how could dbas be more programmer friendly
+2511 what is the difference between select count and select countany non null column
+2515 duplicate database and keep it up to date replication or ssis
+2524 purpose of ids in user table database
+2531 trigger move deleted rows to archive table
+2545 stored procedure parameters using tsql functions
+2562 how much will using varchar15 pk affect my tables performance
+2569 how to effectively query and aggregate normalized sql db
+2572 how do assign an entire active directory group security access in sql server
+2574 what are the benefits of using different tablespace for new user schema
+2599 how bad is tempdb drive failure with multiple tempdb files on different drives
+2624 what is the best practice for storing image varbinarymax data in database table
+2626 when should nonclustered indexes be stored on separate filegroups
+2631 separate databases for front end and back end
+2634 kill all queries mysql
+2650 from set of values how do find the values not stored in tables column
+2662 troubleshoot dbmail in sql server
+2677 how should best name my timestamp fields
+2678 how do show the binlog format on mysql server
+2684 justify not using nolock hint in every query
+2687 sql server maintenance plan best practices on tasks and scheduling
+2701 lnnvl justification
+2710 alternatives to concatenating strings or going procedural to prevent sql query code repetition
+2716 how to reduce the log file size without shrinking it in sql server
+2736 oracle import problem caused by different character sets
+2743 how can get list of column names and types from resultset
+2758 how to get the timestamp column in only milliseconds from postgresql
+2763 set lock wait timeout in mysql
+2770 are there any good tools for monitoring postgresql databases
+2784 do need to add new single column index to table if multi column index on that field already exists
+2790 what would need to do to make sure my db policies have to pass security audit
+2796 how do get the current unix timestamp from postgresql
+2804 how can use default value in select query in postgresql
+2824 how can you tell if table in db2 has primary key
+2868 am using the memory storage engine but mysql still writes to my disk why
+2895 what are negative keys used for
+2905 why is database administration so hard
+2918 about single threaded versus multithreaded databases performance
+2967 database replication and consistency check
+2973 how to insert values into table from select query in postgresql
+2978 in oracle how do save sequence nextval in variable to be reused in multiple inserts
+3005 how to run psql on mac os
+3042 select statement with an explicit list of columns and then an asterisk
+3056 how to change sql sever configuration manager settings using tsql
+3093 postgresql creation date of table
+3102 sqlplus parameterized query via file
+3110 sql can we determine how much the rebuild index maintenance job can grow database log files
+3115 postgresql displaying inheritance relationship
+3134 in sql is it composite or compound keys
+3139 what are best practices for safely permanently deleting database
+3140 create incremental number in oracle sql query
+3148 how can time sql queries using psql
+3153 need to migrate sql server to mysql
+3160 what are the consequences of setting varchar8000
+3204 save postgres database from broken ubuntu server
+3221 how to select from show table status results
+3223 will these two queries result in deadlock if executed in sequence
+3225 what is the best way to automatically create snapshot of the table at the certain time
+3229 sql server posibilities of having views from one database in another database
+3251 limit redo for materialized view complete refresh or manual equivalent
+3255 estimating distribution of row access in mysql
+3276 how can specify the position for new column in postgresql
+3281 how do use currval in postgresql to get the last inserted id
+3289 are there tools to perform data comparison between two different schemas
+3323 recommended page file size for sql 2008r2 on windows 2008r2
+3343 trimming down big sql server database
+3345 would it be sensible to create mysql user for each user account of web application
+3375 how do properly perform mysql bake off
+3394 is it possible to quickly create restore database snapshots with postgresql
+3467 mysql why is auto increment limited to just primary keys
+3480 what is more efficient where clause or join with million plus row tables
+3509 why cant we specify group functions in oracle in the where clause
+3512 fact table foreign keys null
+3519 is there standard implementation of users database
+3540 oracle 10g dump file push into oracle 11g database
+3552 how do output mysql logs to syslog
+3605 chaining sql server agent jobs
+3628 sql server command line usage is it possible
+3647 for oracle we mount the instance to the database or mount the database to the instance
+3653 how to do bulk load of database when application are relying on it
+3674 unknown db file format best way to find out
+3682 column name naming conventions and best practices
+3688 data validity and accuracy according to database integrity
+3694 why is bak so much smaller than the database its backup of
+3696 which dbms are fast enough for an online game few thousand players
+3710 windows storage server sql server regular files means to protect from insider threats
+3737 more databases per sql server instance
+3751 how should represent latitude and longitude in postgres without using postgis
+3754 ora index or partition of such index is in usable state problem
+3760 alter table on large table with an indexed column
+3768 best practices on common person fields name email address gender etc
+3794 how does shrinking sql server log file affect performance
+3816 how to determinate in trigger direct inserts and inserts via stored procedure
+3828 is there collation to sort the following strings in the following order 12361010a10b11
+3831 where can find some guidance on index strategies
+3849 retrieving row count without using count function
+3856 save results as csv with headers in ssms
+3889 is it possible to have passwords configured per database or per host in my cnf
+3913 managing multiple sql server databases
+3914 mysql and postgresql licence issue
+3972 error code too many columns mysql column limit on table
+3980 should convert empty varchar values to null
+3999 does adherence to the dry principle justify dynamic sql
+4000 is it possible to backup and restore part of database in sql server
+4018 how to migrate from sql server to sql server r2 express edition
+4021 psql denies access to file when using copy from
+4040 proper technique for storing users event data
+4043 can see historical queries run on sql server database
+4106 possible career paths for oracle certified associate oca
+4114 restoring an old backup to latest mysql release
+4115 what are the benefits of using mysql cluster
+4118 does mysql super privilege include all
+4124 creating partitions on production database
+4129 modify definer on many views
+4137 when creating views why do users need direct object permissions if they already have the same permissions via role
+4141 is it possible with sql server to have partioned tables with an identity column
+4152 whether or not to create separate tables for different product types
+4154 will the transaction log shrink automagically in sql server
+4162 conversion failed error with order by case expression
+4163 why use both truncate and drop
+4177 find material for improvement in microsoft bi
+4210 how does yelp efficiently calculate distance in the database
+4214 how to best implement nearest neighbour search in mysql
+4215 wise to use trigger to update another table
+4218 sql server version are hotfixes for previous versions implied
+4252 do inserts get auto committed
+4255 how does dbcc shrinkfile affect backups
+4274 performance difference for coalesce versus isnull
+4283 when should rebuild indexes
+4286 list the database privileges using psql
+4291 why does null not work in oracle
+4340 what storage engines work with oracle
+4347 should stop transaction log backups during full backup
+4363 what is the best way of checking the current user privileges on particular table from another schema
+4373 does sentryone plan explorer work
+4441 why is it bad practice to allow everyone to use the sa login
+4475 how often to backup the master database
+4479 is there any point in undersizing varchar columns
+4494 is oracle db immune to the innodb deadlocks found in mysql
+4506 adding columns to production tables
+4511 can move rows between partitions by updating the partition key
+4521 how to create an index to speed up an aggregate like query on an expression
+4540 guidance for using composite keys to identify rows
+4557 policies re database triggers in well designed applications
+4576 which dbms is good for super fast reads and simple data structure
+4603 what exactly is database engine
+4610 when are procedural queries absolutely necessary
+4622 when should you denormalize
+4630 are heaps considered an index structure or are they strictly table structure without index
+4654 is it possible to mysqldump subset of database required to reproduce query
+4679 how do you reset the sa password
+4693 question on sargability
+4696 why is select identity returning decimal
+4706 efficency of stored procedures vs raw queries
+4717 too many connections
+4721 postgresql using schema and table names from other tables
+4750 database design issues
+4760 what is blocking and how does it happen
+4777 how to solve utf8 invalid byte sequence copy errors on restore when the source database is encoded in utf8
+4782 advice with date column sql server
+4794 how do force one record to have true value for boolean column and all others false value
+4810 non deterministic aggregated result
+4814 what tools are there to generate test data for sql server
+4839 sql server what should be done when process is blocking another process
+4859 is there any way to efficiently perform the equivalent of dense rank in mongodb
+4884 is oracle more demanding environment for dba than sql server
+4906 restoring backup to an older version of sql server
+4936 how to delay sql server startup
+4965 sql server does ddladmin rights contain datareader and datawriter rights to the database
+4968 when to use tinyint over int
+4984 clear all tables with one delete
+5014 what risks are there if we enable read committed snapshot in sql server
+5022 sql server how to avoid sysadmin rights but give adequate rights
+5038 sql server join where processing order
+5061 oracle 10g properly using ora rowscn to detect table row changes ie inserts updates deletes
+5071 what are the performance implications of running multiple smaller dbs instead of single larger db on server
+5107 notification on long running query or deadlock in sql server r2
+5131 check if distinct is really necessary
+5146 can the sorting from an order by statement be saved explicitly with only one update statement
+5160 preordering the table by specified column
+5166 what is the meaning of microsoft compatibility level
+5211 changing column width
+5222 why shouldnt we allow nulls
+5233 is rollback fast operation
+5236 is there way to access temporary tables of other sessions in postgres
+5278 check constraint only one of three columns is non null
+5302 why are my sql server 2008r2 databases not mirroring
+5332 cannot drop nonexistent constraint and cannot create it either
+5333 logical operators or and in condition and order of conditions in where
+5346 why is there still varchar data type
+5365 why is my database still fragmented after rebuilt and reindexed everything
+5385 should query tuning be proactive or reactive
+5390 is sharding effective for small collections
+5417 usage of sql server r2 express please advise
+5422 mysql conditional order by to only one column
+5432 what are the causes and solutions for mutating table errors
+5455 why might tables data space take up 4x the size of the raw data
+5460 how long would take to upgrade an 1t oracle db from 10g to 11g
+5468 can enable sqlcmd mode from inside script
+5487 is nested view good database design
+5525 how to know when if have too many indexes
+5588 is there reason to use extremely abbreviated table names
+5602 how can help sql server recognize my indexed view column is not null able
+5634 does the select statement count into dml
+5666 possible to make mysql use more than one core
+5744 understanding time format of the explain command postgres
+5761 for every insert statement see sp executesql in sql server profiler
+5774 why is ssms inserting new rows at the top of table not the bottom
+5780 benefits of table level locking
+5815 how can insert if key not exist with postgresql
+5834 which areas of dbas knowledge should developer delve into
+5859 deleting all duplicates
+5887 how do copy my sql azure database to local sql server instance
+5903 unable to backup database on sql2005
+5926 multi cores and mysql performance
+5989 is table aliasing bad practice
+5995 learning oracle does it matter if install 10g or 11g
+6031 how do you kick users out of sql server database
+6035 single drive vs multiple drives
+6051 what is the default order of records for select statement in mysql
+6108 should every table have single field surrogate artificial primary key
+6115 working of indexes in postgresql
+6117 backing up sql db more frequently
+6122 how do detach all other users from postgres database
+6145 intellisense not working but it is enabled
+6150 what is the safest way to switch the binlog format at runtime
+6158 postgresql issues with autovacuum
+6191 how do you identify innodb table corruption
+6197 how to test if column definition allows nulls
+6246 what should ask at mysql dba interview
+6252 sql server r2 recovery model
+6297 is it possible to restore sql server bak and shrink the log at the same time
+6310 how to show the column names of table
+6327 same tables with same data different sql server stored procedure performance
+6368 how to select the first row of each group
+6383 where to look for bottleneck after elimitating cpu memory and disk
+6387 what is heterogeneous query
+6395 about transaction id wraparound
+6417 how do clear table from sql servers cache
+6468 what are the performance considerations between using broad pk vs separate synthetic key and uq
+6474 listing non record
+6504 trigger shouldnt block insert
+6507 multiple operations using with
+6512 difference between row level and page level locking and consequences
+6526 query runs long time in some newer mysql versions
+6539 how does oracle handle composite index lookups
+6577 sql server schema intact but every record from every table is gone
+6607 how does table partitioning help
+6647 any way around unique index column max
+6673 effect of oracle on mysql
+6691 how to free sql server memory
+6697 sql large table design
+6698 sql server what isolation level for non blocking select statements
+6713 should you design the database before the application code is written
+6731 does the compatibility level for sql server work reliably for scripts
+6736 what does stand for in this query
+6792 how to validate and upgrade my knowledge of sql server with mcsa
+6834 how to create view that refresh automatically
+6840 how to make unique column with default value of uuid
+6859 error unknown table engine innodb on query after restarting mysql
+6880 is it possible for me to be notified if an after insert or update trigger stops working
+6883 indexing from start or when performance problem arises
+6900 why does select power10 throw an arithmetic overflow error
+6912 should invest the time to change the column type from char36 to uuid
+6961 meeting with dbas regarding server upgrade project common concerns
+6962 advantages and disadvantages to using enum vs integer types
+6975 how to move data from big table
+6996 how do truncate the transaction log in sql server database
+7023 symmetric key certificates role in sql server
+7031 mysql vs sql server express compare free dbms
+7036 scalable table structure for periodically updated stats that get aggregated over time
+7038 sql server why to use backup device
+7044 nosql and rdbms together
+7060 sql server r2 ghost memory
+7077 best way to handle dates prior to in mysql
+7080 mincolumn with nulls
+7087 auto commit in sql server and oracle
+7093 which options to enable to guarantee full recovery in sql server express
+7147 find highest level of hierarchical field with vs without ctes
+7156 can 2nf relation be
+7186 what is sql server parallel data warehouse
+7205 slow deletion of records when trigger is enabled
+7233 inaccurate actual row counts in parallel plan
+7239 transact sql using with in create view
+7249 why cant use newsequentialid as the default value for my column
+7301 how to make conditional ordering for two or more columns
+7339 switch top clause between percentage and rows by parameter
+7350 efficient insert into table with clustered index
+7359 can use transaction logs to rebuild database
+7390 postgresql designing tool
+7429 can two servers access the same database files
+7468 how to delete backup from backup set in sql server r2
+7504 to maximize db performance which commands should be run after loading large amounts of data into sql server via ssis
+7515 query running differently on sql vs sql 2008r2
+7573 difference between mongodbs find and findone calls
+7600 what advantages does in memory olap have over traditional systems with significant memory
+7603 sqlite problem of tags and products
+7622 recommended model for application level event logging
+7647 differentiating tables and views in information schema columns
+7652 high disk io how to mitigate
+7660 possible attack on my sql server
+7689 how can an identity primary key index become fragmented
+7741 when should primary key be declared non clustered
+7742 how do sync instance to instance without losing any of the data already on instance
+7753 slow temp table drops in sql
+7754 mysql what is the maximum number of cores used by single mysql server
+7773 help me choose raid level combination for sql server instance
+7785 incomplete mysqldump
+7906 determining that indexes on table are unused
+7924 one big database vs several smaller ones
+7927 extra tables are added when create new database
+7956 how can know which stored procedure or trigger is using table on sql server r2
+7983 does where usually have an impact on query performance
+7985 log mysql db changing queries and users
+7994 what is the most efficient way of inserting millon rows of data
+8011 any better way out of mysql innodb log in the future
+8028 whats better for large changes to table delete and insert every time or update existing
+8033 how to load data into vertica from
+8111 pgadmin iii how to connect to database when password is empty
+8116 monitoring innodb index utilization
+8119 function performance
+8128 datawarehouse design combined date time dimension vs separate day and time dimensions and timezones
+8172 sql to read xml from file into postgresql database
+8182 where to start learning to become successful oracle dba
+8351 need help troubleshooting sql server deadlock scenario
+8374 sql server max memory not limiting use of ram
+8379 the distribution agent failed to create temporary files
+8456 role problem of postgresql
+8461 is there an open source metadata management solution
+8492 what is the chaos isolation level and when should it be used
+8496 is the concept of clustered index in db design sensical when using ssds
+8504 why are nulls sorted first
+8511 over use correct use of schemas
+8514 what is the best approach to run delete query on 92k of million rows
+8533 any security related reasons to prefer windows authentication over sql server authentication
+8580 force postgresql clients to use ssl
+8599 can you prevent more than number of rows being updated in sql server
+8618 is there way to see the access log of table
+8627 shared lock issued on isolationlevel readuncommitted
+8680 what is the best way to create mysql master slave replication setup and troubleshoot it
+8700 best block stripe size for log volume
+8708 reasons for disabling statistics auto update
+8747 is normalization process needed
+8752 sort by match of like
+8771 what is key preserved table concept
+8774 how do you use maxdop in view
+8790 new job and company uses postgresql
+8828 how do you show sql executing on an oracle database
+8869 restore mysql database with different name
+8885 suddenly slow execution plan for stored proc
+8917 should dbo schema be avoided
+8938 benefits of making sql server database as read only
+8978 difference between row based and statement based replication in mysql
+8994 6th normal form recomposition query efficient implementation
+9011 proper use of lookup tables
+9015 small sample database for practicing database administration
+9047 dynamic temporary index creation
+9109 case order by with multiple columns and different sort options
+9124 reducing key lookups
+9143 difference between group by ba and group by coalesceba
+9196 how the indexes are managed
+9197 vacuum and vacuum full do not return space to os
+9249 how do change the definer of view in mysql
+9265 what is the point of primary key
+9268 recalculate row size in sql server
+9293 how does oracle know who am
+9302 why so many logical reads
+9306 how do you mysqldump specific tables
+9352 postgresql vs oracle high availability solutions
+9356 importance of er diagrams
+9406 why did creating this new index improve performance so much when existing index included all columns in new index
+9441 how to catch and handle only specific oracle exceptions
+9494 in sql server how can get all the columns that are marked as nullable in their schemas even though no records contain null for those columns
+9518 improve update performance rows locking issue
+9587 automating failover in postgresql
+9638 using except in recursive common table expression
+9662 check constraint does not work
+9689 insert into without duplicates
+9746 mysql fastest way to alter table for innodb
+9759 postgresql multi column unique constraint and null values
+9762 find the first gap in an aggregation of integers in sql server
+9765 how to make transition from sql server dba to oracle
+9798 postgresql query with max and min date plus associated id per row
+9829 performance of non clustered indexes on heaps vs clustered indexes
+9852 is there tool like microsofts sql server profiler for mysql
+9953 how will nvarcharmax store data in database will it be fast if some data is less then characters
+9962 is splitting users table for authentication purposes good idea
+10005 database behind multilingual user interface
+10034 how can learn to become dba
+10057 copying oracle 11g express database from one server to another
+10113 most efficient way to retrieve date ranges
+10146 why does sysfiles1 show up in the sys objects catalog view in sql server
+10167 is there way to ensure that sql server trigger will be executed
+10199 how should design relationship table for friendship
+10208 configuring postgresql for write performance
+10215 inclusion of order by on query that returns no rows drastically affects performance
+10277 should developers be able to query production databases
+10383 sql server primary keys advice to my whitepaper needed
+10396 does order by on clustered key effect performance
+10409 how do pull backup of an oracle database so can send it to vendor
+10474 postgresql how to create full copy of database schema in same database
+10492 is there simple way in pl pgsql to check if query returned no result
+10496 mysql said innodb initializing buffer pool size 0m does it mean it is using 128mb ram
+10535 how does sql server reduce index fragmentation
+10587 query the owner of sql server r2 jobs
+10655 is nolock always bad
+10657 call stored procedure from trigger
+10694 pattern matching with like similar to or regular expressions in postgresql
+10716 determining how schema change occurred
+10729 should split single table with an auto increment primary key into two tables that can be joined on that primary key
+10776 how does one scale sql server or
+10818 sql server commands to clear caches before running performance comparison
+10852 mysql error access denied for user localhost using password yes
+10873 sql server linked server performance why are remote queries so expensive
+10901 defragmentation rebuilding indexes sql server
+10931 which version of mysql should use
+10950 requests taking longer than seconds
+10952 meaning of set in error message null value is eliminated by an aggregate or other set operation
+10975 does the pci standard forbid the use of windows authentication
+10990 is it ok to blindly add missing indexes
+10991 when to add indexes to temp tables
+11005 sql server r2 query last successful database backup for all dbs
+11031 order by column should have index or not
+11032 list primary keys for all tables postgresql
+11043 mysql changing innodb file per table for live db
+11046 disable trigger for just one table
+11101 decision criteria on when to use non dbo schema vs new database
+11124 sql server data warehousing and different versions
+11233 sql server r2 suspect mode how to repair
+11292 restoring sql server database backup file for read only access is it possible to skip the ldf file creation
+11341 which datatype to store xml data in varcharmax or xml
+11396 what is the recommended way to backup mysql amazon rds database to s3
+11405 how do find my current scn
+11430 can add included columns to an index without affecting performance
+11444 exporting table records to an insert script
+11475 pl sql best way to count elements in an array
+11527 version control for database objects
+11531 is there any doc listing standard oracle character sets correspondencies
+11631 database normalization describing trait foreign key to table or varchar field with value
+11638 sql server do statistics updates cause query plans to be flushed should they
+11657 which of these table designs is better for performance
+11664 do empty columns take up space in table
+11670 pros cons using multiple databases vs using single database
+11697 which is faster join
+11701 query plan caching sql server
+11719 scrubbing names via sql query batch
+11758 design how do you decide when items are related vs when they are attributes
+11806 why is drop database taking so long mysql
+11893 force drop db while others may be connected
+11906 sql analysis services ssas
+11912 how much memory will memory table take up
+11925 how to get unique records
+11956 painless way to create clustered index on huge table
+11962 time to import an sql dump
+12024 what is the best and easiest way to turn off sql server when not in use
+12061 mysql auto adjusting max connections values
+12080 how can optimize performance on mysql ndbcluster
+12082 sql server table maintenance rebuild reorganize update stats check integrity etc
+12150 postgresql unexplained table bloat
+12185 how can guarantee that inserts to sql server r2 are cached in ram first
+12250 mysql warm procedure
+12258 historical reporting from the database with reporting services
+12271 do have to buy mysql license
+12337 is it more secure to go through 3rd database to connect two databases using the same login
+12376 how do find an object that doesnt seem to exist in the objects table
+12388 sql server r2 problems after computer name change
+12437 extracting field from restore headeronly
+12453 login to sql server using windows authentication
+12474 managing transaction log size using maintenance plan
+12512 specify type on sql server computed column
+12564 why we can specify table names enclosing them with
+12569 how to cast an integer to boolean in mysql select clause
+12580 easily show rows that are different between two tables or queries
+12581 how to specify trigger execution order under postgresql
+12596 using tables as table valued parameters tvp
+12611 is it safe to use innodb flush log at trx commit
+12619 what does the term projection refer to in an sql query or view definition
+12650 why is identity insert on only allowed on one table at time
+12655 is there reason to update statistics manually
+12698 managing concurrency when using select update pattern
+12715 having unique id for different tables
+12739 whats the easiest way to create temp table in sql server that can hold the result of stored procedure
+12769 enforcing database integrity
+12779 how are my sql server constraints being bypassed
+12809 how will large index include fields affect system performance
+12810 resources for understanding sql server locking and concurrency
+12913 sql server partitioning and clustered indexes
+12941 does sql server read all of coalesce function even if the first argument is not null
+12977 is raid suitable for mysql installation
+12991 ready to use database models example
+13075 how to use sqlplus to connect to an oracle database located on another host without modifying my own tnsnames ora
+13083 cant remove grant usage
+13093 mysql replication houston weve got problem
+13112 whats the difference between cte and temp table
+13118 sql server transaction slowness
+13167 how to check when statistics was last executed
+13190 what effect does serializable isolation level have on ddl statements
+13243 what is the undo pass that sql server does during restore with standby operation
+13349 is to possible to forbid access to tables in own schema oracle
+13455 how to store data in database without tables
+13468 idiomatic way to implement upsert in postgresql
+13470 would it be considered as bad practice to have multiple nullable fks on table in sql server
+13518 span single transaction over several sequential psql sessions
+13522 is there way to force deferred name resolution even if the table exists when creating stored procedure
+13523 sql what is slowing down inserts if not cpu or io
+13600 virtual oracle server for education
+13650 does sql server execute queries in parallel
+13668 does sql server bit column really use whole byte worth of space
+13698 what is the difference between connection and session
+13703 get the rank of user in score table
+13730 plural vs singular table name
+13742 does running pg dump on live db produce consistent backups
+13744 database suggestion for social network knowledge base community
+13757 safely deleting sql server log file ldf
+13840 are there any good reasons for keeping date and time in separate columns
+13851 where to start learning to understand sql server architecture and internals
+13859 why shouldnt have one table for multiple relationships
+13882 database redesign opportunity what table design to use for this sensor data collection
+13891 is there concept of an include file in sql server
+13911 how to find the sql statements that caused tempdb growth
+13931 why cant relational databases meet the scales of big data
+14047 sql server database on an ssd any advantage to separate file for every table
+14155 how to use restrict for foreign key in mysql
+14172 how to export an er diagram from an oracle db
+14246 innodb file format barracuda
+14327 ocienvcreate failed to create environment handle after installing oracle fdw
+14372 performance degradation after rebuilding indexes
+14388 tables with hierarchy create constraint to prevent circularity through foreign keys
+14402 tombstone table vs deleted flag in database syncronization soft delete scenarios
+14418 sql server uses 1gb of ram
+14490 common table expression cte benefits
+14511 should date formats be specified in sql statements
+14535 how much of security risk are published conceptual schema
+14544 is tablespace something like logical volume
+14565 mysql subquery slows down drastically but they work fine independently
+14570 does an iot guarantee order in select
+14600 what does dba have to know about ssas
+14661 do you know an easy way to generate one record for each hour of the past hours
+14730 what are objective business reasons to prefer sql server over r2
+14740 how to use psql with no password prompt
+14757 where to learn advanced sql coding
+14774 sql server storage of tinyint
+14775 performance settings for myisam tables keep everything in memory
+14789 can you explain this execution plan
+14791 how to identify columns order in table
+14864 test if any columns are null
+14875 how to set specific directory location for individual mysql database
+14989 which is the most efficient way to run particular select query
+14996 how do get list of all the partitioned tables in my database
+15063 computed column with less size than the referring column
+15108 can be automatically notified of prolonged blocking in sql server
+15186 what is an audit table
+15199 inventory database structure when inventory items have varying attributes
+15231 terabytes capacity database resources and time estimates
+15241 what happens to non clustered index when included column is updated using update statement
+15250 how to do case sensitive search in where clause
+15276 is there way to grant user access to only all non system views of database
+15312 why is this full outer join not working
+15326 is it safe to delete dummy tables oracle 11g xe
+15335 are many null columns harmful in mysql innodb
+15342 restoring database is not working
+15350 how can add rowversion column to large table with minimal downtime
+15371 how do get the execution plan for view
+15388 where should you define foreign keys
+15403 is one to one relationship normalized
+15463 create table statement in mysql
+15506 how can create different sets of sequential values based on another column in table
+15530 what does ibfk stand for in mysql
+15531 why does innodb store all databases in one file
+15572 differences between unique key and primary key
+15583 limit results to the first ranking rows
+15595 percona vs mysql
+15632 are existing entries immediately included into newly created index
+15682 sql server backward compatibility for backups with
+15720 why did postgres update take hours
+15729 storing prices in sqlite what data type to use
+15730 atrocious performance joining inserted and deleted tables in trigger
+15846 how to deny drop permission for table
+15859 how can identify when to create new table to hold data that can be obtained from query
+15860 upper or lower case optimisation on ms sql server
+15878 do need separate id column for this mapping table
+15906 is innodb file per table advisable
+15994 if set arraysize in sql plus the records are still fetched in pairs why
+16002 survey database design associate an answer to user
+16127 what is the easiest way to use sql server backup to retrieve just few rows
+16201 php mysql persistent connection pooling without mysql pconnect possible
+16208 why using innodb file per table
+16211 what are the canonical nosql resources for people who never used this technology
+16372 when to use views in mysql
+16397 cannot grant privileges as root
+16433 what does nvl stand for
+16436 rsync database file deltas in sql server
+16461 convert unix timestamp to datetime in view
+16484 how can change three hundred procedures at once
+16493 tracking stored procedure usage
+16554 what normal form does surrogate key violate
+16587 how do troubleshoot loss of connection with sql server
+16612 index on primary key not used in simple join
+16616 why do people recommend not using the name id for an identity column
+16725 sql join syntax in ms sql
+16763 how do run large script with many inserts without running out of memory
+16809 why is load data infile faster than normal insert statements
+16846 data type for currency type column usd cat etc
+16875 restore table from frm and ibd file
+16884 as dba how would go about transitioning from oracle to sql server
+16895 referencing database programmatically via sql
+16956 good sql sniffer
+16969 how costly is opening and closing of db connection
+16993 how to view data in pgadmin iii
+16999 how does sql server know to lock view objects
+17030 add column taking too long
+17057 need to run vacuum full with no available disk space
+17069 in sql server is it possible to have primary key on table without either clustered or nonclustered indexes on the same key
+17092 is the cpu performance relevant for database server
+17103 automatically execute stored procedure after any restore database event
+17197 what is common way to save debit and credit information
+17217 returning result set with multiple rows based on max date
+17265 slow remote select statement due to long client processing time but fast locally
+17267 how do create user defined aggregate function
+17277 when is it ok to shrink database
+17302 anybody using hierarchyid in production is it reliable
+17339 view foreign key constraints so can delete table
+17367 how can monitor the progress of an import of large sql file
+17398 have powerful machine with gb ram how many oracle instances with gb can be created
+17431 which is faster innodb or myisam
+17439 what is the easiest way to get started using databases with real data
+17529 setting circular replication in mysql
+17533 is commit necessary after dml operation in function procedure
+17615 truncate parent table in oracle when child table is empty
+17653 performance degradation while updating tables having 10s of millions of records
+17691 why is there postgresql turtle
+17711 data type for storing an array of flags bitmap bit array
+17761 how to use unique key via combinations of table fields
+17790 created user can access all databases in postgresql without any grants
+17808 is using multiple foreign keys separated by commas wrong and if so why
+17853 are there dbms that allow foreign key that references view and not only base tables
+17893 is it possible to give the optimizer more or all time it needs
+17904 convert varchar column to datetime
+17921 combine column from multiple rows into single row
+17926 why doesnt innodb store the row count
+18024 performing data update operations while backing up large sql server database
+18042 convert datetime column to number of seconds
+18059 copy complete structure of table
+18208 creating an index in both asc and desc directions
+18215 update existing rows with squence number char or any unique data
+18239 using same case when conditions for multiple query columns
+18300 can spatial index help range order by limit query
+18315 restore database excluding filestream data
+18339 stored procedures best practices fenced or unfenced
+18372 why index rebuild does not reduce index fragmentatation
+18399 database design new table versus new columns
+18433 trying to understand show slave status in mysql
+18463 view delete statements in the transaction log
+18495 mysql wont start after increasing innodb buffer pool size and innodb log file size
+18593 should migrate data using detach copy attach or through backup restore replay
+18610 what is the purpose of the database owner
+18637 unexpected scans during delete operation using where in
+18664 are regular vacuum analyze still recommended under
+18669 what database technologies do big search engines use
+18700 what is database
+18864 what is retrieved from disk during query
+18877 how to get last identity row inserted when using instead of trigger
+18887 convert datetime stored as char the yyymmddhhmmss format to datetime
+18934 some book suggestions for performance tuning
+18943 tools for identifying needed indexes
+19077 parameter sniffing why does this become an issue
+19111 mysql only show columns which allow null
+19130 when to update statistics
+19135 mysql error reading communication packets
+19159 sort order specified in primary key yet sorting is executed on select
+19164 what to set innodb buffer pool and why
+19165 scriptable command line access to sql server from linux
+19240 why innodb doesnt store geospatial data
+19242 what are the arguments in favor of using elt process over etl
+19291 passing arguments to psql
+19344 how to efficiently check exists on multiple columns
+19360 design best practices for last tracking with indexed view
+19456 the database principal owns schema in the database and cannot be dropped message
+19491 mongodb ram requirements
+19525 reading sql server transaction logs
+19544 how badly do sql compilations impact the performance of sql server
+19564 passing in the table into stored procedure
+19632 how to create column in db with default value random string
+19670 can execute prepared statement inside mysql select
+19719 copy database option not found in sql server management studio r2
+19749 how do you grant execute permission for single stored procedure
+19870 how to identify which query is filling up the tempdb transaction log
+19894 create index for long columns
+19912 is database normalization dead
+19924 how to compare two sql server configurations
+19959 will delete then insert within transaction cascade
+20068 suppress sql server management studio auto complete
+20070 sql server how to get around the transaction log filling up when updating column to an int
+20099 dynamically define range in dimension
+20117 oracle how do query hierarchical table
+20145 possible to keep max number of records in postgresql
+20217 mysql set utc time as default timestamp
+20275 solutions for reporting off of an eav structured database
+20283 create function in central database or repeat in each database
+20335 can mysql reasonably perform queries on billions of rows
+20355 generate create script for all indexes
+20410 does it make sense to consolidate oracle databases
+20416 do indexes consume memory
+20419 can prove my database does not have memory issues
+20455 write to error log
+20499 update with join on 100mm records how to do this better in sql
+20566 mysql console ctrl driving me nuts
+20583 work out date difference when there is only one date
+20619 improve performance of sys dm db index physical stats
+20706 can windows authentication logins be disabled on sql server or r2
+20714 task manager process is taking over single user mode database what is it
+20734 safely moving and creating new tempdb files
+20759 is there name for this database schema of key values
+20832 slow mysql database import with mysqldump and use source
+20867 sql server equivalent to functionality of oracle rac
+20959 recover postgresql database from wal errors on startup
+20973 quick look at how much ram is allocated to sql server
+20974 should add an arbitrary length limit to varchar columns
+21014 postgresql initial database size
+21031 deleting null results
+21044 how to concatenate psql variables
+21065 unit testing of stored procedures
+21075 way to prevent queries from waiting for table level lock
+21087 how to change mysql previous slave to be master and remove slave status information
+21152 how to update one table based on another tables values on the fly
+21181 is mysqls last insert id function guaranteed to be correct
+21186 efficient way of changing varchar to nvarchar fields in large table in sql server
+21189 how can you save all user defined functions to txt files on your local hard drive
+21220 why am getting impossible where noticed after reading const tables in explain query
+21226 why do wildcards in group by statements not work
+21302 sql server has encountered occurrences of cachestore flush
+21319 used memory not freed up after sql bulk insert bcp export
+21342 dealing with cxpacket waits setting cost threshold for parallelism
+21414 relocate all files to folder checkbox unavailable sql server
+21426 how to rename postgresql cluster
+21434 why does order by not belong in view
+21443 when is seconds behind master too big
+21480 is mariadb suitable drop in replacement for mysql on standard lamp stack
+21483 delete low priority row visibility
+21542 what is the most efficient way to get the minimum of multiple columns on sql server
+21567 proper use of null and utilizing check constraints for business logic vs stored procedures
+21587 postgresql is running locally but cannot connect why
+21650 why does select return
+21724 is there any way to speed up query with 3x union on the same large table
+21749 count with set difference and union
+21779 sql server is putting brackets around table and column names
+21837 are there disadvantages to contained databases
+21895 system disk run out of space when running heavy sql queries on sql server
+21897 set columns default value to the concatenation of two other columns values
+21913 documenting giant web of inter related stored procedures in an ms sql database what tool or format
+21925 database design stores products
+21962 how to control the order of servers listed in the ssms connection dialog
+21965 why are queries parsed in such way that disallows the use of column aliases in most clauses
+22002 how to change the instance name of sql server express
+22026 suppress sqlcmd messages
+22067 tool to match mysql password encryption
+22148 single query to return counts over different ids in single record
+22189 select distinct on one column while returning the other columns
+22250 create file encountered operating system error access is denied
+22362 how do list all columns for specified table
+22385 checking if tables on different servers have the same exact data
+22459 performance of inline tvf vs views
+22460 setting up central clr stored procedure function respository library for internal stored procs in other databases to use
+22512 how can generate random bytea
+22638 get records current partition
+22697 optimizing my update sequence
+22726 does cities deserve separate table
+22771 is shrinking transaction log ok to do on live database
+22779 sql server transactional replication computed column
+22799 postgresql crash recovery
+22803 listing the existing sql server logins and users
+22809 rebuilding index has impact on mdf ldf files sql server
+22833 can connect to sql server instance from sql server management studio
+22909 bug in pl pgsql function creation
+22962 updating multiple rows with data from column into column
+22979 how can improve the speed of query on million row table
+22989 escaping sql keywords
+23036 postgresql import csv file causes syntax error
+23041 is there way to test whether delete will fail due to constraints
+23053 copy postgresql data from one pc to another
+23058 what happens when the mirroring server goes offline for short while
+23068 how to make multiple counts in one query
+23124 whats better faster mysql or filesystem
+23129 benefits of using backtick in mysql queries
+23135 sub query executes time for parent query or more
+23147 estimate database size
+23163 correlated subquery and join still the same exectution plan
+23192 performance tuning for gap analysis of table
+23203 data compression through base36 encoding
+23259 are there any way to stop typing go in sqlcmd
+23265 mysql show grants for all users
+23280 why not use table instead of materialized view
+23305 sql server best practices for growing database files
+23335 lock request time out period exceeded error when trying to see db hierarchies
+23355 postgres query plan of function invocation written in plpgsql
+23371 why should cte start with semi colon
+23399 how can change the target server type for trace template
+23456 other than restarting sql server is there any way to force the sqlclr appdomain to be reset
+23465 is it possible to increase query performance on narrow table with millions of rows
+23467 merge statement deadlocking itself
+23475 modelling constraints on subset aggregates
+23509 why is this query not using my nonclustered index and how can make it
+23532 sql server express vs oracle express edition vs db2 express
+23547 need for reaching data through clustered index with non clustered index
+23566 writing select result to csv file
+23637 how to check if subquery has exactly one distinct result and specified value concisely
+23704 easy way to check connectivity to sql server from client
+23718 when are archived redo logs generated
+23747 test mysql credentials from linux command line
+23772 set backup compression on sql server 2008r2 on by default
+23782 what is the easiest way to move data from oracle to sql server
+23786 data obfuscation in sql server
+23794 postgresql procedural languages differences between pl pgsql and sql
+23879 measure the size of postgresql table row
+23908 how to search mysql database with encrypted fields
+23983 could not find stored procedure even though the stored procedure have been created in ms sql server management studio
+24014 how do get the current and next greater value in one select
+24091 does ssrs lock the table when querying
+24165 sql server should we use tcp or named pipes or use the default
+24280 can this business logic be enforced by conditional database constraint
+24326 replicating only changes made by specific database user
+24386 problem with permissions for user
+24410 compare two tables amount with respect to priortization of fundtype
+24496 in sql server what is the purpose of grouping stored procedures
+24507 most effective way to determine the minimum set of permissions for user
+24518 how to conditionally stop psql script based on variable value
+24531 mysql create index if not exists
+24583 mysql error while creating fk
+24617 can get ssms to show me the actual query costs in the execution plan pane
+24711 alternative query to this avoid distinct
+24714 why does this cursor produce results in the incorrect order
+24748 is there tool to check if my database is normalized to the third normal form
+24758 with ms sql server are the generated constraint names predictable
+24774 postgresql changing password for user is not working
+24832 how and why does top impact an execution plan
+24883 can change table structure in transaction and then roll it back if there is an error
+24894 store categories in database or use hard coded integers
+24937 how to document oracle database
+24991 understanding ms sql server encryption and backups
+25047 should rely on database engine tuning advisor for creating indexes
+25103 script contents of sql server database from batch file
+25124 sql server availability group is it alwayson
+25161 what are the real life cases for using oracle advanced queuing
+25177 oracle supported linux distributions
+25226 ssms tools pack alternative
+25291 lookup table for one to many relationship
+25304 viable strategies for rebuilding indexes online in sql server r2 standard edition
+25305 how is the default tablespace determined when creating table
+25382 how to store formula method in the table
+25425 potential risks of users connecting to sql server through excel as sysadmin
+25448 how to execute query from psql without waiting for the result
+25461 how to troubleshoot orm queries interfering with other applications
+25472 how can configure mysql innodb to handle 1000s of inserts per hour
+25513 postgresql index caching
+25531 how can get the actual data size per row in sql server table
+25627 sql server database synchronization
+25642 index maintenance strategy if few insertion points relative to of rows
+25667 deny access to information schema in sql server
+25683 should log table get an id field or primary key
+25730 sql server mirrored database with manual failover need reporting database
+25809 return column per date in range
+27045 why use explicit cursors instead of regular loops
+27100 are these two queries logically equivalent
+27153 alter table on live production databases
+27255 when was table trigger disabled and re enabled
+27265 is there way to join every row of tablea to row of the smaller tableb by repeating tableb however many times are needed
+27310 what can speed up sql count query
+27328 how large should be mysql innodb buffer pool size
+27383 how much does an index need to narrow the results of search in order to be useful
+27450 attempt to fetch logical page in database failed
+27467 is select row number guaranteed to return results sorted by the generated row numbers
+27477 postgresql query db for rows containing integer or than specified value
+27558 for absolute performance is sum faster or count
+27637 oracle enterprise manager 11g dbconsole internet explorer cannot display the webpage
+27659 mysql single table static and dynamic pivot
+27725 how to see list of databases in oracle
+27732 set names to attributes when creating json with row to json
+27759 finding violations of the symmetry constraint
+27879 sp dboption is not available in sql server
+27893 increasing work mem and shared buffers on postgres significantly slows down queries
+27949 do risk losing the benefits of indexing if have an index on every column
+27950 why does objectproperty return null
+28055 truncate table statement sometimes hangs
+28187 how can get the correct offset between utc and local times for date that is before or after dst
+28213 download sql server profiler for sql server management studio
+28326 how do generate tnsnames ora file to connect to an oracle database
+28360 sql server database size didnt decrease after deleting large number of rows
+28370 what are valid usage scenarios for heap tables
+28406 group by two columns
+28431 many to one subselection in single query
+28459 how do modify the user interface language in ssms
+28512 storing phone numbers proper design
+28544 introducing an age category in patients database
+28584 select the newest data inner join group by maybe
+28730 large set of execution plans hangs up ssms
+28751 postgresql speeding up indexed inserts jpa
+28801 sql server ntfs allocation unit size
+28926 moving postgresql data to different drive
+29055 one complex stored procedure causes estimated cost exception
+29064 sql server how to test filegroup io
+29116 using identity column with increment
+29194 what happened to my cnf in mysql
+29284 how to profile stored procedures
+29289 options for setting nolock hint in dataset queries
+29309 bitwise operations in tsql
+29328 are sql server in place upgrades as ill advised as they used to be
+29352 update field with new string made from characters in existing value
+29363 does it make sense to use full recovery if the data and log files are on the same hd
+29403 how to balance sql server memory with sql server analysis services memory
+29415 merge and formatting of data from two tables
+29468 how can inspect the security settings of sql server endpoint
+29489 slow query on large table with group by and order by
+29522 why does alter column to not null cause massive log file growth
+29532 can this sql be made more efficient and combined into one select
+29543 query to report disk space allocation and used space
+29544 rollback group of ddl statements
+29596 sql server update and database transfer
+29613 login failed for user error severity state
+29636 is it bad to create many mysql temporary tables simultaneously
+29668 count does not work
+29712 is the sql server express memory and cpu limit per instance
+29723 identify why user can drop database
+29767 permission denied in file trying to import
+29775 join tables on partial string match
+29801 sql set allowed values for column
+29829 why does the transaction log keep growing or run out of space
+29903 logins arent syncing across availability groups
+29913 innodb insertion faster
+29961 how do set and get custom database variables
+29963 dynamic change to innodb flush log at trx commit
+29985 determining if indexes are redundant
+30019 usefulness of multi attribute index
+30061 how do list all tables in all schemas owned by the current user in postgresql
+30091 get the windows account which runs the query
+30119 pivot rows into multiple columns
+30210 why are there execution plan differences between offset fetch and the old style row number scheme
+30317 is it possible to get schema id in another database without using dynamic sql
+30374 performance benefit of taking unused databases offline
+30383 cannot start sqllocaldb instance with my windows account
+30477 deadlocks from locks on same temporary tables in different processes
+30551 how to solve mysql the table is full error with amazon rds
+30609 postgresql can do pg start backup on live running db under load
+30621 does firing off an indefinite waitfor increase the log file size
+30626 running pg dump on hot standby server
+30637 read ancient oracle database into current oracle version
+30692 how can backup large sql server database without impacting performance
+30696 improve performance of query using in
+30734 bulk data loading and transaction log
+30787 at time zone with zone name postgresql bug
+30788 finding longest matching prefix
+30824 reducing the size of database
+30862 optimising plans with xml readers
+30932 im using the sql server agent to schedule even non database tasks is this bad idea
+31018 sql server leaked transactions
+31045 swap columns on some rows
+31087 which sql server express edition is right for me
+31104 calling sql server job within another job
+31348 contents of transaction log file in more detail
+31366 perl vs ksh for unix database administration
+31368 point in time recovery from the same database what does it mean
+31378 multiple triggers vs single trigger
+31383 what is the difference between norecovery and recovery when restoring database
+31460 moving rows from one table to another
+31511 is surrogate key better than natural key in this case
+31514 how do know what indexes to create for table
+31561 sql purpose of max in this group by query
+31593 how do use ssms to compare database table against database table
+31701 finding and fixing innodb index corruption
+31720 find the foreign keys associated with given primary key
+31752 mysql load data infile slows by after few gigs of input with innodb engine
+31773 what to call column that references another row in the same table
+31805 what is the difference between record and row in sql server
+31823 what does system lock mean in mysql profiling load data infile statement
+32906 is it ok to use with init for my transaction log backup to avoid having it grow too large
+32919 how do compare data and schema of on prem vs off prem
+32975 error could not find array type for datatype information schema sql identifier
+33021 find top by values by percents using range in sql server
+33074 setting read uncommitted when reading dmvs
+33085 at what point does having an index become efficient
+33196 multicolumn index and performance
+33285 granting user account permission to create databases in postgresql
+33297 sql server agent run query at the end of each month with date variable
+33319 issue with composite type in an upsert function
+33333 how to search for specific column name in all the tables in mysql workbench
+33357 how do go about creating this sql query
+33448 splitting tempdb into multiples files equal to number of cpus
+33553 using select in the where clause of another select
+33561 full text search with postgresql
+33564 transaction log for sql server is too big
+33596 index included columns
+33624 is there way to avoid duplicating the definition of foreign key
+33669 mongodb should separate the journal and the data to different drives
+33698 parameter sniffing vs variables vs recompile vs optimize for unknown
+33700 primary filegroup is full sql server
+33703 how to query last restore date in sql server
+33737 is it ok to keep value which updates in table
+33760 what is the correct result for this query
+33894 store formula in table and use the formula in function
+33937 good bad or indifferent where
+33943 granting access to all tables for user
+34047 cast to date is sargable but is it good idea
+34079 change data capture how to know who made the change
+34132 how export sql server diagram to pdf filetype
+34136 struggling with pgbouncer
+34151 how to have one to many relationship with privileged child
+34173 can sql server management studio express be installed standalone
+34313 identify blocking and send alert
+34356 quick way to validate two tables against each other
+34358 sql server restore single table from backup
+34381 mysql complex for me sql statement how to
+34484 difference between sql batch statement and rpc
+34525 amazon rds for mysql vs installing mysql on an amazon ec2 instance
+34603 are there significant differences with million row tables in oracle
+34633 can we minimise the risk of using xp cmdshell
+34730 why are non digits like
+34754 where can find the sql standard document
+34765 san block size for sql server on 4kb ntfs
+34766 are mysql transactions under utilised
+34947 can launch stored procedure and immediately return without waiting for it to finish
+34955 sql database structure for restful api
+34976 find orphaned users
+34979 resetting sql server sequence
+35015 log all errors in queries
+35081 any option for mysqldump to ignore databases for backup
+35177 automatically restart sql server
+35182 manually set log file size after shrink sql server r2
+35219 choosing the right algorithm in hashbytes function
+35225 the login already has an account under different user name
+35271 does sql server use pointers instead of storing duplicate rows
+35277 is it better to separate big query into multiple smaller queries
+35292 is data retrieved from sql server compressed for transmission
+35316 why is new user allowed to create table
+35325 why did postgresql choose an elephant as its logo
+35327 should manually vacuum my postgresql database if autovacuum is turned on
+35380 select longest continuous sequence
+35424 how to refresh ad security group on sql server permissions
+35459 filtering data that could have more than one category
+35480 is there any difference between putting column alias at the start or the end of the column definition
+35497 display user defined types and their details
+35500 why would not use the sql server option optimize for ad hoc workloads
+35529 how to select the first records for each table in the same database using sql
+35565 how to pass table type with an array field to function in postgresql
+35579 sql server slower than
+35596 is join optimized to where clause at runtime
+35616 create index if it does not exist
+35755 database design different objects with shared tagging
+35812 why is optimistic locking faster than pessimistic locking
+35821 possible index on varchar field in mysql
+35847 mysqldump flush privileges option
+35893 what is error state in sql server and how it can be used
+35910 database in mysql is schema in oracle do not understand this statement
+35932 why do need to use sub query to filter down grouped select
+36056 sql server alter table to change text to nvarcharmax greatly increasing database size
+36073 check if row exists
+36081 write differences between varchar and nvarchar
+36163 is it possible to make one column readonly
+36244 unique identifier with extra characters still matching in select
+36345 physically migrate mysql without dump
+36432 in ssis what is the purpose of flagging package as an entry point package
+36522 maxdop setting algorithm for sql server
+36539 how do remove duplicate records in join table in postgresql
+36603 handling concurrent access to key table without deadlocks in sql server
+36612 oracle startup error could not open parameter file
+36815 what are the differences between leaf and non leaf pages
+36828 how to best use connection pooling in sqlalchemy for pgbouncer transaction level pooling
+36870 permission denied in postgres
+36875 arbitrarily ordering records in table
+36917 defining constraints in create table statements
+36943 find consecutive free numbers from table
+36979 retrieving all pk and fk
+37014 in what data type should store an email address in database
+37034 very slow delete in postgresql workaround
+37038 investigating high sql waits especically lck
+37058 is it ever harmful to set database owner in sql server
+37149 when is it appropriate to use sql server developer edition
+37162 optimal drive configuration for sql server 2008r2
+37252 using mirroring for incremental backups
+37280 does mysql replication hamper the performance of my db
+37354 sql server sandbox
+37363 can the output clause create table
+37379 limit connection rights on sql server
+37427 custom unique column constraint only enforced if one column has specific value
+37491 sql server in state of confusion does the database exist or doesnt it
+37557 oracle 11g performance improvements of inserts
+37600 stored procedures under source control best practice
+37609 how can tell if sql server backup is compressed
+37627 identifying which values do not match table row
+38708 should use compound or surrogate pk in many to many table
+38722 sql server rebuild not lowering avg fragmentation
+38758 postgres use result of group by as column names
+38793 which database could handle storage of billions trillions of records
+38803 mysql error access denied for user
+38808 relating executioninstanceguid to the ssisdb
+38992 how do demonstrate transaction log activity
+39058 foreign keys link using surrogate or natural key
+39081 concatenation physical operation does it guarantee order of execution
+39128 sql server how to send an email when step in sql server agent job fails but overall job succeeds
+39239 securely generate uniqueidentifier in sql server
+39344 how to join two table to get missing rows in the second table
+39421 how to handle timezone properly in sql server
+39572 linked server to sql server server from sql server
+39589 optimizing queries on range of timestamps two columns
+39596 sql server how to detect unused views and or get usage stats
+39611 main considerations when moving from ms access programming to sql server
+39652 is reindex required after cluster
+39689 how can remove bad execution plan from azure sql database
+39703 how to handle update or insert situations
+39815 use case to select columns in update query
+39833 why are constraints applied in the database rather than the code
+39844 which system databases should checkdb and defrag indices
+39936 database design dividing multiple identical tables good or bad
+39968 sql server disk write queue dramatically grows sometimes
+40045 how do list all schemas in postgresql
+40141 is high extent fragmentation problem
+40221 search for something in the first records in the table
+40272 sql server alwayson need to automatically add databases by script sql or powershell
+40280 how to optimize query thats running slow on nested loops inner join
+40373 mysql master and slave design
+40441 get all partition names for table
+40481 accidentally turned down sql memory too low to log in how do fix
+40488 postgresql and default schemas
+40492 relational vs non relational database for events database
+40516 sqlcmd command is not able to insert accents
+40567 how to create database for unknown kinds of data
+40580 updating table with more than million rows of data
+40656 how to properly format sqlite shell output
+40673 getting sql statement to refer to more than tables
+40703 can copy the table structure of temp table to new physical table
+40738 allow snapshot isolation and read committed snapshot
+40830 msg level state line warning fatal error
+40833 how best to maintain sql log file sizes
+40980 login failed for user domain username microsoft sql server error
+40987 does simple select query acquire locks
+41067 getting select to return constant value even if zero rows match
+41215 shrinking the log file does not reduce size
+41223 worse performance on new server
+41239 using dynamic sql inside oracle stored procedure
+41343 force sql server to run query conditions as written
+41413 how to tune mysql to be inmemory like
+41476 whats the meaning of the collation code blank in sql server
+41574 how to design this database to avoid cyclic dependency
+41577 why doesnt delete reorg free diskspace db2
+41608 converting non unicode string to unicode string ssis
+41709 sleeping spid blocking other transactions
+41754 trigger performance is using trigger is good way
+41765 how can search the full text of stored procedure for value
+41854 if fail over one database do the others that share the same mirror endpoint fail over as well
+41938 seeting up postgresql database on another hard drive than my system one on os
+41961 how to find all positions of string within another string
+42180 left join not giving desired result
+42214 how to backup ibm db2 database online
+42290 configuring postgresql for read performance
+42532 format of mysql query log
+42539 database running out of space
+42553 index seek vs index scan
+42561 is there standard way to use common data and procedures across multiple databases
+42721 is there any way to prevent the memo structure from being pruned
+42837 why do linked servers have limitation of branches in case expression
+42889 when should use the shrink option
+42998 are individual queries faster than joins
+43099 can stable or immutable functions call volatile functions
+43254 is it bad practice to always create transaction
+43352 does sql server case statement evaluate all conditions or exit on first true condition
+43452 memory used by locks
+43457 pk as rowguidcol or use separate rowguid column
+43490 oracle datafile extension dat or dbf
+43580 are there design patterns best practices in writing dynamic sql in stored procedures
+43632 format function returning minutes instead of months
+43772 why dont databases create their own indexes automatically
+43802 how to block user access to perform database application update
+43812 how can reset mysql table auto increment to in phpmyadmin
+43823 can add unique constraint that ignores existing violations
+43854 can install sql server on machine with r2 already
+43910 reset identity value
+43937 how to run recurring tasks on postgresql without an external cron like tool
+44084 troubleshooting high cpu usage from postgres and postmaster services
+44188 postgresql executing ddl on every schema
+44498 is backing website by sql server olap cube considered reasonable
+44507 run an exe file that exists on different server from sql server job
+44533 high cpu usage on sql server slow queries
+44585 sql server replication alternative software
+44657 how much time will vacuum autovacuum operation take
+44764 central stored procedure to execute in calling database context
+44784 trying to find the last time that value has changed
+44785 how to write query to find all tables in db that have specific column name
+44796 what can add to server to make sql restores faster
+44908 what is the actual behavior of compatibility level
+44956 good explanation of cascade on delete update behavior
+44992 create table group sub folders in management studio
+45087 max allowed packet in mysql
+45095 backup log cannot be performed because there is no current database backup
+45137 sql server agent jobs and availability groups
+45179 how can write windowing query which sums column to create discrete buckets
+45296 running total which resets when customer changes keeping existing rownumbers attempt included
+45302 find parent rows that have identical sets of child rows
+45461 how to select rows which have max and min of count
+45579 one table used in two databases
+45589 what are the valid formats of postgresql schema name
+45655 what are measures and dimensions in cubes
+45665 what max allowed packet is big enough and why do need to change it
+45708 allow select on specific column only
+45712 how to design index for faster deletes
+45846 how do monitor bandwidth used by sql server on port
+45870 how to do incremental backup every hour in postgres
+45876 difference between full backup and copy only full backup
+45926 how to undo every change made to database in controlled environment
+45934 tempdb version store cleanup
+46009 get username and or ip address responsible for query
+46011 how to determine master in mysql master slave
+46074 query plans not retained insufficient memory errors
+46102 what is the most effective way to compress and store sql server backup
+46125 why does postgres generate an already used pk value
+46127 recursive self joins
+46273 installing full text search to sql server r2
+46289 which one is more efficient select from linked server or insert into linked server
+46373 is it recommended to use identity as an alternative to primary key
+46408 how to choose collation for international database
+46410 how do insert row which contains foreign key
+46486 function hangs with null case operation
+46577 does merge use tempdb
+46672 after update triggers that deal with multi row updates
+46870 select which has max date or latest date
+46942 are there any third party tools that can read and or analyze sql profiler trace trc files
+46957 expanding dataset based on weight field
+46980 how can execute stored procedure whose name is in variable
+47025 identifying unused stored procedures
+47046 why do the mysql bin log files still exist after purge or flush
+47051 sql server level permissions
+47058 how can see the current database mail configuration
+47098 how do determine if column is defined as serial data type instead of an integer based off the catalog
+47127 workaround for anti semi join bug
+47186 how can drop stored procedure whose name is in variable
+47237 need to understand parallel query execution error
+47266 overwrite table with data from another table sql
+47267 how to select from table without including repeated column values
+47295 dbcc checkdb unfixable corruption indexed view contains rows that were not produced by the view definition
+47304 bak file not visible in any directory in ssms
+47345 how can determine how many iops need for my aws rds database
+47356 how to determine windows server start time using sql
+47357 can force user to use with nolock
+47402 connect to sql server from an windows xp client
+47431 why is sql server consuming more server memory
+47444 general memory requirements for sql server r2
+47545 how do unload data from database to flat file
+47842 mysql error hy000 connection using old pre authentication protocol ref used client option secure auth enabled
+47861 how to join two result sets to query on output came from two statements
+48011 how to partition an existing non partitioned table
+48055 how do delete only related records in multi key merge in sql server
+48072 why does mysql ignore the index even on force for this order by
+48108 unique constraint across two columns
+48166 cannot open table mysql innodb index stats
+48365 dividing dbcc checkdb over multiple days
+48390 moving from sql sql latin1 general cp1 ci as to will lose any features by using backwards compatibility
+48405 restore could not start database
+48408 ef code first uses nvarcharmax for all strings will this hurt query performance
+48458 does the order of columns in pk index matter
+48462 database size mdf too large
+48525 shrinking sql server log file multiple times
+48537 how to make ssms upper case keywords
+48580 trace flag and which need to be turned off and why
+48630 optimize simple query using order by date and text
+48643 query to find guids not in null containing subquery returns no results
+48705 sql server transaction log backups test whether tail log follows last known log backup
+48731 sql server db user mapped to windows login not in sql server logins
+48760 what steps are necessary to safely restart machine hosting microsoft sql server
+48872 quickly change null column to not null
+48898 what is the difference between completion and success in sql server maintenance plans
+48899 postgres ddl and dml best practices and coding standards
+48923 how to dump postgresql database whose owner has no password
+48991 does re index update statistics
+49140 are there any problems with deploying an sql server database to production server by taking backup
+49385 how to drop sql server database currently in use and in single user mode
+49398 sql server backup job last days
+49744 oracle empty string converts to null
+49757 clustered index compression vs table compression are they the same thing
+49803 what are reasonable privileges to grant typical users
+49947 how can prove that the following sql is bad for performance
+49984 how to optimization database for heavy from updates software and hardware
+50016 how to get missing values in row order
+50076 understanding two nics requirement for sql fail over cluster
+50127 when was torn page detection and checksum introduced to sql server and what are the upgrade behaviors
+50231 oracle equivalent of postgresql cluster
+50355 options for data encryption in sql server r2 standard edition
+50391 why does mysql allow having to use select aliases
+50652 sharing single primary key sequence across database
+50664 best practices for backing up mysql db
+50708 do natural keys provide higher or lower performance in sql server than surrogate integer keys
+50727 mysql not using indexes when joining against another table
+50741 fill factor setting and performance
+50797 cannot use sqlcmd
+50826 is msdtc required for sql server fail over cluster
+50837 why is there difference between these transaction dmvs in sql server r2
+50867 environment varible path exceeding recommended length solution
+50906 why wont postgresql start on ubuntu
+50951 composite primary key efficiency as foreign key
+51155 create new database with large initial size
+51215 how to script all permissions on schema
+51219 max connection pool capped at
+51340 should join datetime to date using cast or range
+51349 the column order of composite clustered primary key on partitioned table
+51440 how to combine date and time to datetime2 in sql server
+51524 licensing sql server standard edition for development and test severs
+51945 how to optimize not in statement
+51970 how to find index organized table
+52005 how to fix log reuse wait desc log backup log backup not possible
+52129 index on persisted computed column needs key lookup to get columns in the computed expression
+52244 way to reference the id in multi insert transaction postgres
+52314 group by with max versus just max
+52317 freeing unused space sql server table
+52358 benefits of droping temporary table
+52492 mysql using comma separated values
+52517 best way to populate new column in large table
+52632 difference between sharding and replication on mongodb
+52641 how to get list of locked accounts check that account is locked
+52698 figuring out the physical size of group of tables in sql server
+52766 how to do minor upgrade of postgresql on windows to
+52826 insert values from record variable into table
+52828 what permissions are necessary for truncating table
+52845 what can be done to further enhance performance of multiple join and aggregate queries
+52929 oracle password has expired however have no way of changing it
+52968 how can keep result set without keeping the transaction open
+53085 is there way to generate table create script in tsql
+53105 creating read only replica of sql server database for reports
+53151 sql join query to show rows with non existent rows in one table
+53201 mysql creates temporary tables on disk how do stop it
+53462 how do find all tables in db that have no explicit primary key
+53726 difference in execution plans on uat and prod server
+53815 clustering vs transactional replication vs availability groups
+53995 prevent sysadmin from doing database restore
+54059 one index or two
+54149 how to make sqlplus output appear in one line
+54261 cant get this query to work left outer join postgres
+54283 how to turn json array into postgres array
+54318 replace space with no space in one column
+54377 is it possible to view lru values in sql server
+54403 architectural help needed mysql or nosql for table with million records
+54608 innodb error table mysql innodb table stats not found after upgrade to mysql
+54893 enforce schema bound views
+54943 when connection is closed and returned to the pool the isolation level from the last set transaction isolation level statement is retained
+54954 why use where or where
+55019 can single postgresql query use multiple cores
+55198 huge slowdown to sql server query on adding wildcard or top
+55327 how can change the number of schedule uid to re create sql server agent job
+55363 set random value from set
+55368 list table sizes for all tables on all databases
+55383 data flow task produces no rows with declare statement
+55498 full outer join does not work for two small tables error
+55550 delete an oracle instance the right way
+55568 how to efficiently copy millions of rows from one table to another in postgresql
+56023 what is the search path for given database and user
+56045 any relation between sql server service name and instance name
+56096 how to get all roles that user is member of including inherited roles
+56130 oracle is not using unique index for long key
+56304 replace materialized view in postgres
+56374 vacuum freeze vs vacuum full
+56482 how can determine the maximum possible number of threads
+56494 making sense of innodb buffer pool stats
+56527 alter database statement not allowed within multi statement transaction
+56616 sql server generate scripts from command line
+56804 mysql how to drop all tables starting with prefix
+56844 is there quick way to find all columns in sql server r2 that are encrypted have encrypted data
+56876 sql server auto trim of varchar value in equal comparison but not like comparison
+56893 mysql is giving weird result
+56897 postgresql create view with autoincremental column
+56930 is there way to find out who changed the password for login
+57058 how do use an ispell dictionary with postgres text search
+57418 how to determine mysql queries per day
+57445 use of having without group by in sql queries
+57723 superuser is not permitted to login
+57785 is there way to execute sql statement based on sql server version
+58214 getting last modification date of postgresql database table
+58284 how to drop empty tables
+58308 is there well known name for this poor mans ref integrity schema design pattern
+58312 how to get the name of the current database from within postgresql
+58341 mysql on ssd what are the disadvantages
+58455 insert record into table in trigger function
+58772 how to export all the security related information from sql server database
+58888 why does query error with empty result set in sql server
+59000 what is the fastest way to fetch the last row from table
+59006 what is valid use case for using timestamp without time zone
+59062 how can dynamically alias columns
+59128 does the sql server agent account need sysadmin permission
+59170 very slow execution of simple query
+59193 what is the fastest way to insert large numbers of rows
+59447 is matriculation number good primary key
+59472 store output of sp who2 in table
+59509 to normalize or not to normalize for few distinct values
+59770 performance with in clause
+59776 indexing on multiple nvarcharmax columns
+59840 spatial index not used
+59916 streaming replication log is puzzling me
+60108 ola hallengren with database mirroring
+60129 how to view an encrypted view or stored procedure
+60179 when previously fast sql query starts running slow where do look to find the source of the issue
+60342 can is distinct from be combined with any or all somehow
+60449 implications of changing compatibility mode in sql server from to
+60465 upgrading from postgres to on ubuntu server
+60480 should create an index for non key columns
+60590 lock create table
+60651 how do best measure the query performance
+60777 indexes for sql query with where condition and group by
+60789 what are the most effective techniques to reduce sql server disk space use when updating all rows in very large table
+60837 datediff in mysql
+61163 pgadmin3 connection with non standard ssh port and ssh tunnel
+61212 at what point does one database per client become unfeasible
+61246 what does this sql server icon mean
+61293 whats the complexity of renaming column in mysql
+61520 how to do where in val1 val2 in plpgsql
+61616 installing sql server express fails with error could not find the database engine startup handle
+61633 does myisam table locks if copy it while mysql is running read disclaimer
+62029 is there any way to get the estimate cost of executing query in mysql
+62051 alter table rename column
+62129 how to log all mysql queries into log file
+62144 altering multiple tables
+62165 cant connect to my servers sql database via an ip address
+62208 is it impossible to store records on database of some kind
+62500 improve performance of count group by in large postgressql table
+62576 sql index how it works
+62598 select specified number of unique ids where second column is unique
+62660 detecting changes in sql server table
+62812 how to do while loops
+62884 how to disable starting mysql service on windows7 startup
+62976 how can enter mongo as superuser or reset users
+63131 why do indexed views not permit non unique clustered indexes
+63138 real time preview of sql queries generated by applications
+63255 database cannot be upgraded because it is read only or has read only files make the database or files writeable and rerun recovery
+63506 merge two select queries with different where clauses
+63553 track changes in database structure
+63641 understanding datetime formats in sql server
+63661 in postgresql is there type safe first aggregate function
+63676 how to know who dropped database
+63681 does mysql have version of change data capture
+63825 how to check for existence of an index on column independent of used sql database
+64013 is there any command to optimize all mysql tables one by one automatically
+64084 copy maintenance plans to different server
+64256 oracle 12c in memory option
+64270 primary key within json data in postgresql
+64727 get streak count and streak type from win loss tie data
+64876 deploy database to sql azure task missing
+65142 how to find duration in dataset
+65257 how do safely drop list of tables when have the table names listed in column
+65262 performance hit of convert from nvarchar to money sql server
+65351 sync two mysql databases in two different locations
+65609 column vs field have been using these terms incorrectly
+65922 deleting large volumes of rows from table efficiently in sql server
+66014 connect to sql server with windows authentication in different domain
+66118 splitting deck of cards and returning the results as if they were shuffled once
+66249 how do find long running query with process id process name login time user start time and duration
+66387 change column type from varchar to text in all tables at once
+66471 script to estimate row sizes for any table
+66553 count where two or more columns in row are over certain value basketball double double triple double
+66616 how to rollback after wrong update statement in sql server 2008r2
+66741 why cant use case statement to see if column exists and not select from it
+66840 add not null constraint to large table without table scan
+67852 how to create table like without the not null constraints
+67875 return record with pl pgsql function to speed up the query
+67985 how do you find sql server version edition without ssms installed
+68077 what is the maintenance db asked by pgadmin
+68089 how to use coalesce with multiple rows and without preceding comma
+68150 what is the difference between schema and database in oracle
+68264 official postgresql capitalization conventions
+68266 what is the best way to store an email address in postgresql
+68639 identity column as clustered index bad idea
+68700 database normalization can one field point to another
+68771 connecting to sql server using oracle sql developer
+68991 set simple recovery mode and shrink log files for all user created databases
+69043 reclaiming data file free space after deleting large amount of data
+69081 performance tuning great circle distance calculation
+69354 ms sql server cumulative updates best practices
+69361 is select still big no no on sql server
+69467 is it ok to change from full recovery to simple recovery in sql server
+69655 select columns inside json agg
+69656 cant create table but table doesnt exist
+69953 parent child relationship or not if the name of the field implies the relationship
+71393 sql server baseline and performance optimization
+71596 restoring mysql tables from ibd frm and mysqllogbin files
+71608 security implications of restoring backup from an unknown source
+71852 how to insert values into table from two different tables
+71961 mysqldump single transaction yet update queries are waiting for the backup
+72083 how do include nulls during comparisons in sql server
+72134 fast hamming distance queries in postgres
+72330 is support for parallel scalar udf reasonable feature request
+72358 improving group by query performance in sqlite3
+72493 why would select be magnitudes faster than select foo
+72641 checking whether two tables have identical content in postgresql
+72750 innodb import performance
+72770 disable mysql binary logging with log bin variable
+72816 create failed for index clusteredcolumnstoreindex timeout expired
+72858 what are the risks if any of sharing service account on more than one server
+72864 sql server log shipping in restoring state can temporarily take it out of restoring to check it
+72974 rebuilding an entire microsoft sql server database
+73226 creating table with many optional fields
+73635 insert into select into multiple related tables using insert identity
+73680 can update every datetime in bulk
+73711 is there any way to do select query without any optimization in sql server
+73826 can install sql server management studio locally
+73850 shrink transaction log while using alwayson availability group
+73921 why does transaction log continue to grow in simple recovery mode with nightly backups
+74283 how to order by typical software release versions like
+74306 creating unique constraint on postgis raster type column
+74343 database user not reported as orphaned after windows login dropped
+74457 how do prove that the act of removing foreign keys doesnt corrupt existing data
+74461 stored procedure null parameter within where clause
+74517 how to create postgres trigger to ensure field is non updateable
+74627 difference between on delete cascade on update cascade in mysql
+74679 using the sysadmin role with execute as
+74752 why max of sum giving wrong output
+74773 group by one column while sorting by another in postgresql
+74879 how to tell which indexes are not being used
+75091 why are simple selects on innodb 100x slower than on myisam
+75142 postgresql equivalent of mysql query variables
+75214 postgresql not running on mac
+75335 is there any difference at all between numeric and decimal
+75408 memory optimized tables can they really be so difficult to maintain
+75439 mysql instance stalling doing sync index
+75451 show table name number of records for each table in mysql innodb database
+75550 is data warehousing possible in mysql and postgressql
+75821 checkpoint or commit writes to disk
+75876 sql order by query results in any arbitrary but reproducible manner
+75894 postgresql do foreign key constraints automatically create indexes
+75990 iterate through all non system databases and empty them
+76021 insert takes over hours when inserting more than specific number of rows
+76038 how do tactfully bring up database shortcomings
+76091 amazon how to change database name in amazon rds mysql
+76130 how to backup large mongodb database
+76207 pulling top queries returns null in query plan and sql text
+76273 why use rds over ec2 for postgres
+76302 mirroring in sql server standard edition
+76375 check progress of alter index reorganize rebuild
+76628 can you use count distinct with an over clause
+76788 create mysql database with charset utf
+76802 how to schedule jobs in sql server for less than sec
+76834 what is the logic behind isnumeric for certain special characters
+77247 not able to create ssisdb catalog
+77298 how to make sqlcmd return an errorlevel other than when the sql script fails
+77376 migrate all databases from one sql server to another
+77402 is my understanding of fact table granularity correct
+77489 truncated 200gb table but disk space not released
+77560 why wouldnt vacuum analyze clear all dead tuples
+77639 are rank and dense rank deterministic or non deterministic
+77664 how does sql server determine precision scale
+77894 restrict user to only take copy only backups
+77935 rebuild on clustered index why does datasize shrink
+78061 will increased network latency cause table locks in ms sql server
+78196 how to query from linked server via linked server in sql server
+78242 postgresql maximize performance ssd
+78265 postgresql generate sets of random integers
+78323 alternative way to compress nvarcharmax
+78341 permission to view execution report in ssis catalog
+78564 unable to copy db from sql server to sql server using copy wizard
+78569 what is the best way to create database diagram for sql azure without having to install sql server
+79980 is there faster way to get union all behavior in postgres
+80140 can combine the results from multiple columns into single column without union
+80264 what is the most effective way to discover all running instances of sql server using powershell
+80374 unexpected results with random numbers and join types
+80514 why does unique constraint allow only one null
+80618 database with only text fields
+80695 deleting data from large table with replication
+80710 which one is better performance and approach store as rows or as varchar column
+80817 how to export an image column to files in sql server
+80951 dont know how to transform variable entity into relational table
+81011 transactions within transaction
+81035 get seconds of day in postgres
+81065 re writing sub select as condition on column generated with over partition by
+81094 postgresql procedural languages overhead plpython plsql pllua
+81245 how to determine the size of my tables in the sql server database
+81277 assembly system web version culture neutral publickeytoken b03f5f7f11d50a3a was not found in the sql catalog
+81310 what exactly is overlapping candidate key
+81311 why would table use its primary key as foreign key to itself
+81369 select all substrings grams of length
+81388 does sql server ever delete old error log files
+81460 cte works as expected but not when wrapped into function
+81552 why sql server r2 do full installation for just adding another instance on the same machine
+81595 query that lists all mapped users for given login
+81607 update statistics for all databases all tables in server
+81631 sql server clustered index index balancing and insert performance using newid
+82000 how can reliably determine if given sql server instance has the lock pages in memory right
+82094 cannot remove char 0x0000 from nvarchar column
+82161 why pg restore ignores create error failed fatal database new db does not exist
+82304 sql server grant execute on all stored procedures without ddl permissions
+82414 do you have to run nodetool repair on every node
+82573 keep track of time intensive stored procedure with prints
+82604 clustered index improvemens for particular queries
+82824 this instance of ms sql server has been using process id of since dd mm yyyy
+82921 the number of row value expressions in the insert statement exceeds the maximum allowed number of row values
+83125 mysql any way to import huge gb sql dump faster
+83164 remove password requirement for user postgres
+83421 how to recursively find gaps where days passed between rows
+83984 connect to postgresql server fatal no pg hba conf entry for host
+84090 row number without partition by still generates segment iterator
+84204 sql server how to create user with access only from specific hostname or ip addres
+84297 select rows with same id but null and some other value in another column for that id
+84333 space usage on sys allocation units and sp spaceused
+84434 cascade primary key update to all referencing foreign keys
+84607 cannot alter table
+84801 adding hstore entries to an uninitialized null column
+84833 incorrect query results for execution plan unsure of exact cause of problem
+86263 managing cte execution order under uncertainty
+86274 group by range of years
+86312 lines starting with colons in sql server
+86313 conversion of varchar data type to datetime data type resulted in an out of range value
+86383 excessive sort memory grant
+86415 retrieving rows per group
+86432 backup database task whats the number at the end of the filename
+86526 is it advisable to use temp table when the stored procedure could be run simultaneously by different users
+86596 in sql server can guarantee an order without an explicit order by clause when an index seek is forced on table with only clustered index
+86636 when is it safe to disable innodb doublewrite buffering
+86724 how to create temporary table using values in postgresql
+86779 refresh materalized view incrementally in postgresql
+86802 grant permissions on views deny select on tables
+86855 does db2 order data by the primary key
+87122 email address unique or primary key
+87145 how to measure or find cost of creating query plan
+87300 what is meant by churn
+87317 using indexed views for aggregates too good to be true
+87330 understanding statistics execution plans and ascending key problem
+87355 avoiding multiple or expressions
+87435 are out of the row fields read when clustered index is used
+87467 at what point should split or partition very large but simple table
+87692 flush clean mysql ib logfile0 ib logfile1
+88794 getting applicationname sqlserver client app name to show up in an xevent
+88942 query session parameter values of running session
+89031 using distinct in window function with over
+89670 how alwayson availability group secondary replica catches up with primary after secondary server long downtime
+89676 datawarehouse bad practice
+89760 prevent mysql from mangling queries by casting string to int
+89815 when was database taken offline
+90033 how do drop all constraints from all tables
+90137 normalising shared entities and applying constraints
+90258 pg restore archiver db could not execute query error schema public already exists
+90354 best way to migrate huge sql server database with low downtime over network
+90482 export postgres table as json
+90858 postgres multiple columns to json
+91223 automatically restore sql server database from file from another server
+91247 optimizing postgres query with large in
+91338 is it safe to cancel postgresql alter table query that is waiting on lock
+91388 delete command not completing on row table
+91509 reorganize seems to work as well as rebuild all the time
+92117 mongodb co locate the mongos process on application servers
+93510 return counts for multiple ranges in single select statement
+93588 the transaction log for database database name is full due to xtp checkpoint
+93823 mysql replication how to read from slaves manually
+94545 calculate row value based on previous and actual row values
+94552 mysqldump doesnt restore database why not
+94717 dynamically convert hstore keys into columns for an unknown set of keys
+94887 what is the impact of lc ctype on postgresql database
+95425 mysql write lock
+95595 count data using multiple date ranges
+95600 custom sorting of query
+95646 purged more than records in table but size of database has not reduced
+95740 alter primary key column from int to bigint in production mysql 19a
+96000 how to query readonly replica in always on cluster
+96039 what is the most efficient way to concatenate strings in sql server
+96245 mysql filter date column using like or month
+96331 upgrading database from sql server to uncovered syntax error
+96346 cxpacket suspended and null wait type
+96556 reference column alias in same select list
+96743 how to get exception context for manually raised exception in pl pgsql
+96917 check storage engine from shell
+97171 unexpected implicit conversion in procedure
+97470 does deprecated in mysql means not guaranteed or still guaranteed
+97738 changing column from not null to null whats going on under the hood
+97773 get all dates in the current month
+97781 why is the sql server query plan not using indexes in query almost similar to one that uses indexes
+97898 verifying password policy on existing users
+98529 why are mysql password hashes internally saved with star asterisk
+98553 retrieve total available days in date range compared against multiple records
+98575 select all records join with table if join exists table if not
+98745 getting all databases which sql logon can connect
+98949 grant select on all databases except one mysql
+98954 does mysql support querying for the current running transaction id
+99317 view locks acquired during query execution sql server
+99326 sp send dbmail stored procedure send with attachment
+99334 migrate from sql server to without or instance
+100643 why these characters are all equal in sql server
+100665 unknown returned type in postgresql query
+100749 how does unique key help to improve sql query performance
+100899 help with pivot query
+100965 combining separate ranges into largest possible contiguous ranges
+101211 get ms sql server to release disk space
+101917 unable to restore database backup because it is accessed by other connection
+102066 ansible how to change mysql server root password by reprovisioning the server
+102208 sql server developer edition or download
+102292 trace flag enable globally
+102370 double entry bookkeeping database design
+102463 how often will for each statement trigger execute if the operation is caused by an fk constraint with update cascade
+102492 is there way to calculate yesterday today of last month year in sql
+102605 azure sql database login failed for user in application but works fine in ssms
+102620 query the definition of materialized view in postgres
+102677 select distinct on multiple columns
+102745 how can take backup of particular tables in sql server using sql script
+102903 is it acceptable to have circular foreign key references how to avoid them
+103273 why does partition range right skip deletes inserts
+103402 how to prevent postgresql trigger from being fired by another trigger
+103625 how to reinitialise var lib mysql files
+103688 tracking down stored procedures parameters after execution
+103815 how to select first row from join that returns multple rows on the primary key
+104172 postgresql grant all on mutliple tables using like
+104192 optimization issue with user defined function
+104378 sql server management studio slow connection or timeout when using windows authentication
+104421 sql server combined index other separate index on one column
+104460 backup internals what happens when backup job is running in terms of locking and performance overhead in sql server
+104565 accidentally change database name sql server
+104573 have years worth of inventory data and want to extract the first and last day of each months data what is the best way to do this thanks
+104596 cummulative sum with reset value
+104898 use default value in table when null
+104987 avoid unique violation in atomic transaction
+105023 is it ever ok to not test feature
+105195 conceptual erd multi table many to many or possibly recursive
+105386 insert update in same query from previous select with some singularities
+105431 how do limit oracles memory use
+105443 why is sql server consuming so much ram with no active data stored
+105461 make column for each count in day of the week
+105525 index performance on on versus where
+105537 postgres is performing sequential scan instead of index scan
+105965 syncing two databases in sql server
+105999 creating stored procedure and adding date manually to filename
+106001 are junction tables good practice
+106014 how to partition existing table in postgres
+106037 optimize sql query
+106126 postgres query takes forever
+106264 recheck cond line in query plans with bitmap index scan
+106539 why should key be made explicit
+106632 nvarcharmax converting to varchar and table optimization
+106762 how can convert key in sql server deadlock report to the value
+106795 remove duplicate values from query result
+106898 convert date yyyy mm dd to integer yyyymm
+107078 sql server alter table vs drop and create
+107096 oracle autotrace vs explain
+107238 for xml could not serialize the data because it contains character 0x0000
+107475 how to best store timestamp in postgresql
+107549 backup with mongoexport or mongodump
+107556 unresolved reference to user after importing as vs db project
+107597 cassandra cluster monitoring
+107669 why do async network io wait types occur
+107744 how do find the next saturday in mysql
+107820 sql server compatibility with new tls standards
+107947 sql server tools to identify query optimisations and missing indexes
+108129 why seq scan can be much faster than index scan and index only scan in this simple query
+108210 is it reasonable to mark all columns but one as primary key
+108266 sql server max memory includes ssis
+108287 why does my query search datetime not match
+108290 simultaneous calls to the same function how are deadlocks occurring
+108710 how to examine postgresql servers ssl certificate
+108952 why does pk constraint require separate index when already have suitable unique clustered index
+108975 postgresql who or what is the public role
+109078 why index is not used with order by
+109210 does an empty column value occupy same storage space as filled column value
+109377 which version of sql server supports
+109392 if you dont rollback transaction will the change still be made
+110460 why the where clause is not pushed down in the views query
+110774 is it possible to develop ssis with sql server evaluation version
+110781 insert on duplicate key update not working as expect
+110880 numeric vs integer for column size and performance
+110911 latin1 general bin performance impact when changing the database default collation
+110916 finding contiguous ranges in grouped data
+110949 how to exclude null values inside concat mysql
+111013 how does sql server perfom lock when using cross apply
+111095 why scalar valued functions need execute permission rather than select
+111187 postgresql size of temporary files
+111223 most efficient way to generate diff
+111258 creating sql server performance baseline monitoring
+111334 nested aggregation and grouping on multiple columns in mysql
+111335 how to answer why suddenly we need indexes or query needs to be changed
+111347 sql server sa account probe
+111419 sql server log file used pecentage does not drop after multiple backups
+111462 does cpu utilization affect the cost of foreign numa access
+111477 amazon rds postgresql adding new extensions
+111487 what are the practical reasons behind learning relational algebra
+111897 mysql show list of tables with paging in terminal
+112090 sql server on windows
+112094 adding last time occurred flag column
+112167 show data and disk use breakdown by table
+112179 date range query for past hour in mongo shell
+112408 join with comma separated values in sql server
+112424 routing data from one sql server to another
+112576 entity relationship problem
+112810 extremely slow query on indexed column
+112876 should mark composite index as unique if it contains the primary key
+112992 find data size of table for several identical databases on instance
+113122 conditional foreign key relationship
+114260 why is not null computed column considered nullable in view
+114332 why is sqlcmd command marked as wrong in post deployment script
+114337 postgresql query very slow when subquery added
+114360 update performance where no data changes
+114376 listing sql server instance startup parameters
+114403 date range rolling sum using window functions
+114503 dedicated resources on vms hosting sql server
+114555 will where query do checks on simpler comparisons bit before running more arduous comparisons varchar
+114580 best way to design database and table to keep records of changes
+114665 can skip the intermediate table in join
+114774 postgresql not using index
+114850 default value for microtime column in mysql
+114856 what causes large insert to slow down and disk usage to explode
+114902 interview sql question
+115136 buffer size changing
+115175 sql server updating fields on huge table in small chunks how to get progress status
+115201 get servername from linked server
+115270 whats good way to get sql server to release memory to the operating system on dev machine
+115338 property size is not available for database
+115339 cant find process that is creating backups
+115391 performance of rare select vs frequent insert in timeseries data
+115461 tables with fks of each other
+115621 filtered index only used when the filtered part is in the join not the where
+115765 when running script with several commands how to find out where were at
+115913 updating table from another database
+115943 index fragmentation am interpreting the results correctly
+116054 prevent explicit insert into serial columns
+116142 get the last distinct values for each id
+116240 can two sessions create temp tables with the same name
+116280 dynamodb multiple range keys
+116330 how to erase in sqlplus with backspace
+116347 unable to create filtered index on computed column
+116361 how do configure aws aurora to separate write read operations
+116365 what are the practical uses for relational calculus
+116368 poor cardinality estimate disqualifies insert from minimal logging
+116494 is there way to optimize sorting by columns of joined tables
+116521 execute stored procedure via linked server from sql server r2 to sql server
+116552 access jet sql datetime stamps in tableb flanking each datetime stamp in tablea
+116615 how can avoid repeating the same condition in when matched then update clause
+116731 why is convert being used in this statement and how does it differ from cast
+116747 sql server sequence which restarts daily
+116965 sql server equivalent of oracle using index clause
+117036 locking sys and system accounts
+117146 archiving of old data
+117193 confused about why particular index is being used
+117306 query 100x slower in sql server row count spool row estimate the culprit
+117391 claiming disk space after removing table field
+117469 create hierarchy of multiple levels where each node has random number of children
+117484 format column length in ssms output
+117567 ssms how to format sql scripts
+117734 backing up restoring sql server databases to synchronous state
+117740 postgresql like query on array field
+118057 convert string numeric values with comma as decimal separator to numeric10
+118158 whats up with the collation of some columns in sys databases
+118178 does updating row with the same value actually update the row
+118331 how is combined index implemented in sql server
+118452 error message view server state permission was denied when connecting to sql server using sql server management studio
+118458 connect to sql server without specifying port
+118492 why does requesting the estimated execution plan for sp delete job throw an error
+118649 way to ignore pages in memory for query
+118729 switching between databases with dynamic sql
+118737 how to query ssisdb to find out the errors in the packages
+118823 can have full backups on multiple disks
+118880 conversion failed when converting date and or time from character string
+119621 how to update million rows in mysql single table as fast as possible
+119865 what are all the ways an open transaction will rollback
+120060 modify xml attributes into elements
+120064 why does len function badly underestimate cardinality in sql server
+120488 determine 3rd friday of each month
+120635 update column with value of another column or another column
+120756 why must tvps be readonly and why cant parameters of other types be readonly
+120945 how do resolve this error error hy000 unknown or incorrect time zone utc
+121034 best practice between using left join or not exists
+121160 mongodb mmapv1 vs wiredtiger storage engines
+121208 ddl admin vs db owner permissions
+121236 mysql innodb page cleaner settings might not be optimal
+121370 order by datetime with last
+121804 what parts make up pg database size
+121877 sql server cannot drop idle job
+121982 doubts in glenn berry query cpu per database
+122262 running sp askbrent with expertmode in powershell
+122582 copying hundreds of tables from one server to another with ssms
+122623 default value for uuid column in postgres
+122666 replication taking too much time between requests
+122707 differences between the different installers of sql server express
+122756 join on multiple columns with or
+122823 unable to change servername after vm clone
+122926 how to add check constraint in postgres without locking the table
+123327 what are the sql server versions of first and last
+123664 is else implied in my count case when statement
+123863 computed column index not used
+123969 what is the use of restore headeronly when performing backup
+123978 can sp executesql be configured used by default
+124082 where to start to understand unknown database
+124204 sql server using dual databases for performance
+124785 why would sql server ignore an index
+124847 best way to get last identity inserted in table
+124896 updating where clause to check if value is not in separate table
+124947 availability group listener
+124949 8k row overflow error when updating row of size 5k
+125069 find the days difference between two dates per month
+125171 switching values in column with one update statement
+125190 how to collect ntfs file properties and insert into sql server table
+125198 choosing pk varchar2 or smallint2
+125251 how and when do use an alias in my sql statement
+125272 oracle sort order changed
+125279 max number of user connections
+125300 effect of an index on update statements where update column is not in an index
+125308 is it possible to force the optimizer to eliminate irrelevant tables in this partitioned view
+125399 sql server granting permissions to an entire schema vs object
+125422 what does the position of the on clause actually mean
+125494 pass comma separated yet single parameter to cursor
+125504 what ad groups logins my user belongs to
+125617 how can drop all triggers in single database
+125771 multiple column concatenation
+125850 change identity insert to on in sql server
+125885 insert custom header row in bcp output
+125886 check if user exists in sql server database
+125915 what to do when your always on cluster loses quorum
+125985 complex view becomes slow when adding order by in outer query with small limit
+126003 index performance for char vs varchar postgres
+126030 possible benefits of storing multiple values in one field of one row instead of as separate rows
+126095 how to reduce huge cxpacket latch ex access methods dataset parent wait times
+126127 replace special characters in column with space
+126154 sql server backups on datadomain
+126235 if exists taking longer than embedded select statement
+126246 sql orderby when using an in query
+126446 is there penalty for using binary16 instead of uniqueidentifier
+126495 create as select with constraint
+126604 should have column for every data type or column that stores everything
+126632 warning about implicit convert
+126846 using echo statement writes echo is on in the text file
+126852 how to get the next value of sequence
+126871 how to turn this query into pivot
+126969 why is with nolock running as serializable
+126996 alias of count is not being recognized by sql server
+127083 improve query using cursor to set based approach
+127158 how to get sql insert and or update to not lock entire table on ms sql server
+127221 avoid double query on the same table
+127303 how can pass column to function in sql
+127316 database one table or many
+127405 sum of datalengths not matching table size from sys allocation units
+127537 setting root password in fresh mysql installation
+127613 how can tell what database procedure is using linked server
+127617 use distinct with sum
+127639 why does adding top dramatically worsen performance
+127737 risks involved in upgrading to sql server r2
+128314 add is primary key column to this query
+128348 stored procedure returns after catching exception
+128424 transaction log backups serial or parallel
+128433 add autoincrement to existing pk
+128474 maximum sql server memory set to gb but it still goes over gb how do prevent sql server going over max memory limit
+128535 in what cases transaction can be committed from inside the catch block when xact abort is set to on
+128914 data warehouse server how do you calculate ram cpu specifications
+129090 progress of select into statement
+129358 how to use cte to compare values
+129504 how to create clustered and non clustered index in oracle
+129522 how to get the id of the conflicting row in upsert
+129659 what is the sense and benefit of using sqlcommand prepare
+129694 mysql not null columns accepting null values
+129747 right join did not work as expected
+129751 how to deal with datetime ranges in table with separate columns for date and time
+129785 likes or votes for posts
+129827 fault tolerance in mysql servers
+129854 how to convert this varchar to datetime format
+130018 handle expired sql logins passwords in sql server
+130028 insert performance increases under load why
+130141 calculate total visits
+130321 can mongodb be configured to sit behind load balancer
+130392 generate and insert million rows into simple table
+130399 script to find the list of stored procedures in all databases
+130441 instance and database oracle vs sql server
+130606 how to find oracles installed version and release from program
+130659 ora no matching unique or primary key for this column list
+131204 average of last runs of product
+131310 exists subselect vs inner join
+131350 correlated subquery in sql server
+131400 best design to reference multiple tables from single column
+131634 availability group how to determine last failover time
+131759 is there sql server implementation of the longest common substring problem
+131801 how to select distinct top but group by column
+132029 how to add column with foreign key constraint to table that already exists
+132155 how to check if the table has rows
+132170 sql server changes execution plan part
+132293 can sql server system tables be defragmented
+132437 sargable where clause for two date columns
+132673 how to get response from stored procedure before it finishes
+132689 why is my exists query doing an index scan instead of an index seek
+132851 database frozen on alter table
+132951 cant default date to current timestamp in mysql
+132966 trim whitespace spaces tabs newlines
+133208 how can configure maximum number of concurrent connections without ssms
+133384 counting rows from subquery
+133546 what problems are solved by splitting street addresses into individual columns
+133556 can rely on reading sql server identity values in order
+133651 why sql server migration assistant keeps crashing on the migrate data step
+133712 performance of and and vs
+134016 quickest way to migrate mirroring to ag
+134027 how can sql delete using sub query
+134129 transaction in stored procedure
+134296 grant admin to an active directory account in sql server
+134525 whats the difference between with cte with cte column names
+134555 convert row into concatenated string with column names included
+134685 is it possible to alter the primary key of table from non clustered to clustered in the subscriber only and not break the replication
+134704 is total elapsed time in dmv sys dm exec requests completely inaccurate
+134741 custom id numbering fast way on insert
+134828 how to improve estimate of row in view constrained by dateadd against an index
+134898 lots of indexes mysql vs mongodb migrating
+135032 id with the format yyyynnnnnn with the nnnnnn part restarting each year
+135142 how do you properly remove require ssl from single user
+135150 shrinking database which is not having any insert update
+135365 get stored procedure result column types
+135420 easy way to change column id primary key of table to auto increment
+135455 what does option fast in select statement do
+135478 large mongodump followed by mongorestore
+135645 if persons name is null then how would it break the database
+135717 is there way in sql server to make table only able to insert by trigger
+135720 grant select on all tables in redshift
+135745 how to fix messed up replication on ms sql server
+135814 how to return rows between two datetimes stored as date and time
+135887 help undoing an accidental restore on sql server
+136225 ibm access odbc driver returning only first letter of column names
+136235 group daily schedule into start date end date intervals with the list of week days
+136239 grant select on tables with specific naming pattern
+136268 is the hierarchyid clr open source
+136674 lob data slow table scans and some questions
+136733 when are computed columns computed
+136894 msdb dbo sysjobs and last run date and time
+137045 sql row concatenation with xml path and stuff giving aggregate sql error
+137097 are cursors while loops the only way to make administrative changes to multiple databases
+137200 trim trailing whitespace tab newline carriage returns etc
+137391 queries without good enough plan found
+137472 why set auto update statistics to false
+137704 rules related to transaction count
+137791 blockchain bitcoin as database
+137911 blocking continues after enabling snapshot isolation
+138029 stuck task in management studio how do you handle them
+138080 convert date range to an interval description
+138114 using the database engine tuning advisor how do generate the scripts for the recommendations
+138311 good example of mdx vs sql for analytical queries
+138315 what function to use with this timestamp
+138357 digit zip codes are reporting len of
+138522 mongodb vs rdbms dba duties
+138720 does alter column change datatype use tempdb version store
+138724 how to hide disable tables without dropping them to check redundancy
+138800 weird where clause behavior why does this return row
+139021 how to get the current line number from an executing stored procedure
+139106 is there sql equivalent for punctuation as is for numbers and is for letters
+139131 error could not find first log file name in binary log index file
+139213 azure data warehouse user defined function issues
+139290 summing data based on distinct dates
+139358 create into table with primary key
+139382 capitalize only the first letter of each word of each sentence in sql server
+139480 oracle union default sort is weird
+139702 should add an auto increment identity field to cross reference table just for pk purposes
+139746 any different guidance for tempdb with availability groups
+139758 transactional replication latency issue
+139776 why is bak file size increasing doubling with each consecutive backup on sql server
+139912 odd stream aggregate behaviour
+139969 shrinking sql databases bad idea
+139986 what is causing arithmetic overflow in the query below
+140247 why does concatenation operator estimate fewer rows than its inputs
+140363 how do order by nulls last if my database doesnt support it
+140369 sql if parameter1 is null use parameter2
+140493 after upgrade to sql server agent cant connect to instance
+140558 what is the purpose of row guid column
+140568 where is my oracle home windows directory
+140576 compute the total of sumcolumn
+140604 implementing subtype of subtype in type subtype design pattern with mutually exclusive subclasses
+140632 why would primary key value change
+140756 how to select column names by data type
+140790 using max text or more specific smaller type
+140896 why cant differential backup specify its base
+140909 use of coalesce to check for all variables being null
+140943 will dbcc checkdb with repair have to rescan
+141092 methods for finding new trace flags in sql server
+141129 find ids from list that dont exist in table
+141175 partitioning large table has not improved performance why
+141239 login failed for user on sql azure from azure hosted web application
+141464 please explain the difference between row and page compression
+141527 sql server database snapshots for integration testing
+141594 how select column does not list in group by clause
+141789 how to limit maximum number of rows in table to just
+141804 few huge instances or many small ones
+142080 sql server db mail not sending
+142139 is there way to make this select retrieve the same results with single seek
+142282 database design for an exam
+142305 what is the effect of having an opened transaction in mssql for too long
+142330 why does this query work
+142331 is mysqldump hot backup kind
+142552 if positive sum all items if negative return each one
+142714 sql server limit to concurrent table queries
+142825 what are the best practices regarding lookup tables in relational databases
+142960 am doing security breach if am connecting ms access front end multiple computers to sql server back end
+143008 when should mark column as the primary key
+143132 how to escape xml characters in tsql before converting to xml
+143157 sql server how to grant select permission on view that access data in schemas from differents owners
+143342 large trillion items geospatial dataset with rapid 1s read query performance
+143601 was management studio removed from sql server installation media
+143861 get attribute value of xml
+143941 can an sql job deletes itself after its end date
+144096 assign db owner to all users at once
+144100 tiny query used to be sub second speed now takes seconds
+144214 select rows having condition met for group without temporary table
+144591 need to intentionally create blocking processes for testing
+145163 does anybody know what this tool is called
+145204 warning sign on the select operator what does it mean
+145665 find which account sql server service is running backup under
+145982 sp updatestats vs update statistics
+146011 is it worth the time to review indexes suggested by index tuning advisers
+146543 does changing wal keep segments require restart
+146610 sql server not listing records with null values
+146750 bytes are not being used from sql servers kbyte data page
+146993 preventing users from accessing db while indexes are being rebuilt
+147039 why is this explicit cast causing problems only with linked server
+147112 is there value that can use in select top that will return all rows
+147775 timeout error after sql server upgrade from 2008r2 to sql server
+147976 inserting date from string cast vs convert
+148386 indexes and statistics on temp tables
+148395 mongodb using too much memory
+148443 sql server management studio release keeps on crashing
+148523 cardinality estimation for and for intra step statistics value
+148641 consolidating row of data based on previous rows
+148665 how far to go when validating sql service pack install
+148784 how to order rows randomly but keep groups together
+148788 multiple rows with the same maximum value
+148858 how did this statement update rows in postgres
+148876 return value directly from insert with returning clause
+149459 how exactly does sp msforeachdb work behind the scenes
+149630 sql find records that are prefixes of my string
+149796 query with rownum returns differents rows on every execution
+149811 why does the estimated cost of the same seeks on unique index differ in these plans
+150158 preferred way to store datetime
+150207 how many times does cte run
+151169 are views harmful for performance in postgresql
+151183 mariadb cant init tc log
+151199 why cant rows inserted in cte be updated in the same statement
+151431 postgresql upsert issue with null values
+151453 sql server how to convert audit log into table
+151522 find iteration of day of week in month
+151550 sql server ntext columns and string manipulation
+151691 arithmetic overflow error
+151813 why can mysql handle multiple updates concurrently and postgresql cant
+152301 using ssis to extract query data and present it through cube
+152488 integrity constraints in relational database should we overlook them
+152501 safe alternative to execsql
+152659 find the value optimize for unknown is using
+153274 oracle does enabling pk rebuild its index
+153295 cardinality estimate for like operator local variables
+153392 why do composite foreign keys need separate unique constraint
+153420 mysql delete row that has foreign key constraint which reference to itself
+153458 postgresql function not executed when called from inside cte
+153519 does sql server require more ram to hold columnstore indexed tables than traditional rowstore
+153586 why does count aggregate return for null
+153738 sql stored procedure with output parameter
+153747 memory utilization at why not
+154032 sql server seemingly strange behaviour of begin tran commit
+154061 delete all data in postgres database
+154227 pagination in sql server
+154251 is adding the tbl prefix to table names really problem
+154262 listener listening without listener ora
+154471 quorum for nodes alwayson availability group
+154574 flag vs table split
+154766 scripts to disable constraints and indexes for data warehouse load
+154841 sql server which role grants permission to execute all stored procedures
+155219 sql server reindexing rebuilding
+155332 find objects linked to postgresql role
+155580 lock table on purpose without returning results
+155650 authoritative source that and are identical in performance in sql server
+155684 bug in database scoped configurations
+155952 enable sql server agent service by sql script or powershell
+155998 get second highest value in table
+156028 create global temp table on one db and use it in query on another db is it possible
+156068 using window function to carry forward first non null value in partition
+156164 what is the maximum number of local variables that can participate in set operation
+156359 find all tables without foreign keys in database
+156545 error unclosed quotation mark after
+156553 how to display queries of separate tables in adjacent columns
+156827 using postgresql what is the difference between smallint and bool for storing boolean
+157045 what is the difference between integrity and consistency
+157334 best indexing strategy for query that searches between two bigint columns
+157501 achieving sequence number rather than datetime for updates postgres specifically
+157515 can primary key constraint with nonclustered index check for only certain values
+157696 quickest method to invalidate statistics
+157790 is it possible to choose raiserror or throw depending on sql server version
+157893 change data capture vs trigger for logging changes
+157912 why cant use variables in sql like imagine can
+158092 is merge with output better practice than conditional insert and select
+158201 why is this join cardinality estimate so large
+158205 very slow query
+158291 why is my index not being used in select top
+158602 get id of row in aggregate
+158617 update request using table alias
+158693 when converting dynamic sql pivot query to xml output why is the first digit of the date converted to unicode
+158957 do ssds reduce the usefulness of databases
+158988 what are identity columns
+159069 switch varchar to date in mysql
+159115 get max serial no according to sum of its corresponding amount
+159227 computed field when null
+159229 changing identity column from int to bigint
+159413 exists select vs exists select one or the other
+159462 return number of rows based on column value
+159710 why is array agg slower than the non aggregate array constructor
+160216 group by gives wrong result with min aggregate function
+160281 conditional subquery
+160290 what reasons are there to stop the sql server
+160343 is it possible to set composite not null constraint in postgresql
+160354 how to generate series in standard sql or sql
+160530 use len function in where clause in create unique index
+160794 easiest way to import access db accdb into sql server
+160872 determine whether mixed mode auth is enabled without logging in
+160924 can get tree structure from self referenced hierarchical table
+161220 is there anyway to change the standard sql server reports and or see the sql behind it
+161586 including count of result in the main query
+161752 automated sp whoisactive sql activity capturing issue
+161824 can do sargable first letter match on two tables
+161849 why does nested loops join only support left joins
+162042 sp send dbmail usage best practice
+162227 how to port ltrim from oracle to sql server
+162232 display row for each month in range defined by two columns
+162452 how does sql server handle the data for query where there is not enough room in the buffer cache
+162514 how to read html code as xml and get the output like the sample in sql
+162906 cannot insert into newly created column
+163154 what can be the downside of always having single integer column as primary key
+163448 how to get count for different columns on same table
+163528 creating non clustered index on non persisted computed column sql server
+163557 reset running total based on another column
+163875 using replace in sql
+164043 should multi tenant system with sql server shard or have tenant isolation via separate database per tenant
+164046 left join producing inflated count numbers
+164166 why does inner join introduce hidden sort
+164260 are these tools still valid
+164329 insert up to missing products into related product discounts table
+164382 factors to consider while rebuild reorganize of index in sql server
+164463 effect on execution plans when table variable has primary key
+164526 change query to improve operator estimates
+164711 how to pivot rows into columns mysql
+164922 left outer join sort operations in the query plan any ways of tuning this simple query
+165230 always encrypted out of memory exception when attempting to encrypt column in table
+165439 set trustworthy on smacks down service broker from working
+165798 why cant use null values in joins
+165912 duration unit in sql server trace file
+165966 how does one investigate the performance of bulk insert statement
+166024 how to create row for every day in date range using stored procedure
+166117 separate month and year columns or date with day always set to
+166205 converting sql server database to sql server
+166374 grouping or window
+166493 can refactor this query to get it to run in parallel
+166747 postgresql delete query hangs and so does explain analyze
+166792 postgresql generated columns
+166843 what index to use with lots of duplicate values
+166877 shortcuts snippets to select block of code
+167031 does aws rds support memory storage engine
+167036 actual query plan estimated cost and dm exec query stats worker time do not gel
+167037 how to change only time while keeping the date same in timestamp type
+167086 union implemented with hash match operator
+167096 in what case is countx or null needed in gaps and islands
+167201 what does from mean in postgres
+167486 what are object relational databases and why is this model necessary in spatial databases
+167489 detect if any values in nvarchar columns are actually unicode
+167709 set column to only accept negative values
+167727 conditionally or vs case vs if
+168022 performance of count in subquery
+168116 sample query ddl for producing page locks on clustered index in sql server without hints
+168134 find rows in which the column doesnt contain space
+168276 what are different ways to replace isnull in where clause that uses only literal values
+168303 can sql server extract node names from json
+168402 connection timeout errors from postgres update monitor postgres
+168590 not using foreign key constraints in real practice is it ok
+168726 sql server cardinality hint
+168815 why does tsql return the wrong value for power2
+168833 division in sql
+169123 cpu clock speed versus cpu core count higher ghz or more cores for sql server
+169372 rownum for sql not top
+169458 mysql how to create column if not exists
+170579 select multiple values in like operator
+170803 why does dropping foreign keys take long
+170849 truncate with where clause
+171030 optimize subquery with windowing function
+171194 create database level constants enumerations without using clr
+171337 case statement and sargability specific use case
+171365 how to generate the creation script for partition function and partition schema
+171425 do add read committed after set transaction isolation level serializable
+171510 why does it take so long to view logs on server
+171654 why does subquery reduce the row estimate to
+171855 how to set search path default on psql cmd execution
+172275 is it possible to build data warehouse by myself
+172289 problem getting zips in radius via mysql
+172521 difference between inline view and with clause
+172903 microsoft sql server local report culture is not supported is invalide culture identifer
+173190 sql server avoid repeating the collation type multiple times in query
+173309 how can convert the first million positive integers to strings
+173335 why storing users passwords at all
+173367 invalid column using row number
+173435 default constraint worth it
+173831 convert right side of join of many to many into array
+173868 transform number in symbols in mysql select
+173895 understanding varcharmax column and why can store more than characters in it
+174044 when exactly are multiple users unable to simultaneously run stored procedure with temp table
+174069 why the term relational
+174219 trigger to change database collation on creation
+174249 why would the parallelism repartition streams operator reduce row estimates to
+174353 sql server returns arithmetic overflow error converting expression to data type int
+174694 how to get group where the count is zero
+174739 format is nondeterministic built in string function right
+175073 do triggers compile each time
+175674 does sql server log record uncommited operations
+175682 why can it take up to seconds to create simple cci rowgroup
+176023 automatically execute query in ms sql studio every hour
+176246 what is the optimum method of finding the per item earliest date from clustered index
+176666 blue icon with question mark what does it mean
+176935 how would track all price changes in db in order to get the price of product on date
+177009 return one row for empname
+177022 where clause with full outer join
+177032 temp table clustered key not being honored bug or expected functionality
+177083 three update query vs single update query performance
+177114 doing two counts on single table in single query
+177162 how to make distinct on faster in postgresql
+177369 how to monitor transaction log usage in sql server
+177463 what is transition table in postgres
+177518 why computed columns slowing down performance all the sudden
+177622 autoincrement vs composite primary key for big table on innodb
+177652 how to change script task version in ssis
+177803 are implicit transactions per batch or per session in sql server
+178056 distinct children rows ordered by column of parent
+179500 does alter index all rebuild use more transaction log space with simple recovery model than rebuilding each index individually
+179623 only one administrator can connect at this time ms sql server error
+180006 apply inner join only if there is row available otherwise use null
+180136 how many vlfs can be bad
+180197 different types of result for coulmnname nulll and coumnname is null in postgresql
+180461 strange behaviour with sample sizes for statistics updates
+181593 need suggestion on back up strategy
+181594 does sql server query timeout settings change require server restart
+181598 why is mixing column collations in single database considered bad
+181732 optimize for unknown in stored procedure
+182189 how do access postgres when get an error about var run postgresql pgsql
+182227 sql server clears plan cache and execution stats periodically
+182233 writing simple select stored procedure in oracle pl sql
+182275 enabling page compression on 5tb table
+182331 using is null in case expression in where clause
+182410 forcing flow distinct
+182420 my professor taught me that count doesnt count duplicates
+182580 postgresql upsert not working on partitioned table
+182728 why does sql try to convert rows that are excluded by my where clause
+182731 how is this sql server pk violation possible
+182860 is partial restore of data from backup possible
+183046 does microsoft release its sql query hash algorithm
+183087 populating missing data based on previous month end values
+183891 check constraint for array column to verify length
+183984 detaching database permanently
+184149 is it really possible that the order will not be guaranteed for this particular redundant derived table
+184288 why is datalength of decimal regardless of precision
+184525 should use index or unique key for non pk uniqueidentifier
+184617 is there any limit to the number of databases you can put on one sql server
+185044 postgresql immutable volatile stable
+185123 locate the smallest missing element based on specific formula
+185376 sql dynamically import xml into tables sql server
+185662 deleting column from table in production
+186257 how can return multiple rows of records in pl pgsql
+186339 exact same query different performance
+186597 strange performance problem with sql server
+186631 how to monitor activity in ssms only with sql
+186638 select top performance question
+186778 is there any reason to stop transaction log backups during maintenance window
+187090 does sql server support greatest and least if not what is the common workaround
+187207 slower sql server performance after allocating more cpu and ram
+187342 is there way to prevent scalar udfs in computed columns from inhibiting parallelism
+187369 optimizing query for splitting strings with known size
+187568 sql server how to restrict memory and cpu for specific database
+187688 encryption of data log and backup files using always encrypted in sql server
+187807 do non relevant columns affect query time of select statements
+188016 snapshot isolation vs read committed oltp and reporting databases
+188044 what does in this where clause do
+188203 sql server query store what is considered an ad hoc query
+188231 is there name for the class of characters represented by in sql server
+188335 can weak entity have primary key
+188667 best database and table design for billions of rows of data
+188793 sql server not using index used in
+189484 find uncompressed size of all tables in database
+189607 delete millions of rows from sql table
+189676 why is bulk insert considered dangerous
+189928 how restore from gz backup with new database name using mongorestore r3
+190073 truncate tables with dependent foreign key constraints
+190090 help installing sql server vs shell installation has failed with exit code
+190782 does taking transaction log backups every minutes consume more disk space than log backups every hours
+191146 using source columns in output into clause of an insert statement sql server
+191393 localdb v14 creates wrong path for mdf files
+191440 how do enforce write once then read only database table in sql
+191552 how to improve performance of query matching on the same table
+191595 cant update co2 to co in table row
+191803 how to move tempdb files to different drive or folder
+191825 why would select query cause writes
+192208 mysql return json from standard sql query
+192364 mongodb terminates when it runs out of memory
+192524 how to pivot on multiple columns in sql server
+192901 how do you directly modify the system catalogs in sql server
+193138 why does user not have access to database
+193154 previous years data based on specific year
+193287 lookup performance of numeric vs string
+193362 why is there no predicate applied to the index scans
+193394 is it bad practice to have several mutually exclusive one to one relationships
+193777 error reading concatenate command
+193783 sql server error invalid usage of the option first in the fetch statement
+193875 is dropped or altered function still available inside already opened transactions
+194131 parent child relation in same table
+194222 postgresql identity column gets null value when inserting multiple rows with default keyword
+194315 sql server ssd slow performance
+194684 in postgresql what is the difference between stored procedure and other types of functions
+194975 how to avoid implicit type casts in postgresql
+195085 should explicitly deny update to columns that should not be updated
+195338 high cpu system time usage on mysql server
+195763 how to insert into table variable
+195775 what is the optimized way to pass multiple parameter from single table to function
+195923 is there any hidden built in function on ms sql to unquote object names
+195937 addwithvalue performance and plan cache implications
+196030 filter condition difference where clause vs join condition
+196158 where vs having on non aggregate columns advantages disadvantages irrelevant
+196219 what benefit is there from enabling query store on msdb
+196220 same function in select and where clause
+196330 is it possible to install just the mongo shell
+196570 why does the varchar datatype allow unicode values
+196600 sql server injection how much damage in chars
+196931 how to restart postgresql server under centos
+196938 left outer join on multiple conditions
+197142 how to avoid functions from performance stand point in azure sql database
+197360 how to execute sql server query in ssms using powershell
+197363 choosing primary keys scientific names of species or system assigned numeric identifiers
+197789 how do check my sp blitz sp whoisactive versions across multiple servers databases
+197870 speeding up count on large tables
+197937 always on availability groups as secondary read only database
+198170 install sql server on debian
+198408 how to best store pixels in database
+198473 sql server getting total for each group
+198513 sql beginner need help with where syntax error
+198611 columnstore index in read only filegroup prevents checkdb
+198789 is it bad practice to query pg type for enums on regular basis
+199144 why are virtual log files not always allocated in order
+199202 select top rows missing from ssms temporal table
+199226 keep row null or delete it
+199487 nonclustered index not being used
+199842 how to find the query that is still holding lock
+199853 accent sensitive sort
+199961 find specific table and column value across all databases
+200161 simple sql cte update
+200269 sql server distributed availability group databases not syncing after server reboot
+200279 how can stop continuous failed logins on sql server
+200352 how to ignore duplicate rows in cte select statement
+201598 how to create unicode parameter and variable names
+201719 how to use conditional order by in mysql
+202000 what is the best way to include sql server agent jobs in source control
+202086 every batch causes compile
+202211 emulate user defined scalar function in way which doesnt prevent parallelism
+202254 get members of given group from relationship
+202419 dateadd not producing sargable expectation of an index seek
+202707 bad performance using not in
+203130 alternatives to running query for rarely changed data everytime on large table
+203402 sql server expiration date
+203499 full back up over to network failed due to unknown network error
+203612 validating the gst identification number gstin
+203877 why does sql server return some rows while still executing the query and sometimes not
+203981 pgadmin version fails to open second time
+204011 unusual column comparisons and query performance
+204087 regenerating cube relational schema in visual studio
+204096 sql servers total server memory consumption stagnant for months with 64gb more available
+204302 how long can this alter table statement take
+204339 sql server how to disable trigger for an update only for your current session
+204532 improve performance of sum query
+204545 creating persisted computed column with function
+204565 why is my query suddenly slower than it was yesterday
+204597 finding rows with same id but different date
+204757 problem with union casting integer to ceilingdecimal
+204920 return xml sequences where an attribute doesnt contain specific character
+205012 how to count boolean values in postgresql
+205026 sql server enterprise vs standard edition
+205065 double sending stored
+205073 how do you write to folder with spaces in it
+205190 sql server enterprise vs standard online indexing and online schema change
+205341 most efficient way to call same table valued function on multiple columns in query
+205342 do not add comma in front of the string if value is null or empty
+205587 speeding up query on time series table its slow to get max min aggregation value
+205684 select orphaned rows in generic way
+205727 single core sql server on vm
+205790 substring without the first characters
+206055 postgresql maximum of sum over different months with ties over multiple years
+206170 alternative to using min in subquery
+206241 does non clustered index make any guarantees about row order
+206426 delete multiple rows based on choice between combination of two columns
+206481 matching closing square bracket with patindex using the wildcard
+206678 invoke sqlcmd doesnt work when used with xp cmdshell
+206815 why does sql server use better execution plan when inline the variable
+206832 how to have more than entries in case statement as variable
+206934 get incremental counts of an aggregated value in joined table
+206975 what are pros and cons of ola scripts vs using maintenance plan
+207262 create stored procedure inside try catch block
+207371 please explain what does for xml path type value nvarcharmax do in this code
+207456 how to get median value from row in sql server r2 without using pivot and unpivot table
+207496 determine if user defined type is enum
+207671 cardinality estimation problem on inner join
+207706 fetch all data having price between and
+207984 unquoting json strings print json strings without quotes
+208170 returning information in nested select in the outermost select
+208178 sql whats the most efficient way to loop through table until condition is met
+208372 how can wait times be higher than clock time
+208487 does restoring full backup bring it to the backup start time or the backup finish time
+208520 how to unnest and group by elements of json array
+208731 sql challenge the sensor threshold exception report
+209084 sql server splits into or yielding strange results if is non deterministic
+209384 find who executed stored procedure
+209546 how to do case insensitive like in case sensitive database
+209583 if database only ever has one insert is it bad to index every possible column combination
+209695 if cte is defined in query and is never used does it make sound
+209989 where clause over multiple rows group by
+210066 order of operation with ltrim rtrim isnull
+210249 how to copy paste missing index in execution plan tab of ssms
+210865 sql server count seems to be ignoring where
+211352 changing the use of getdate in the entire database
+211700 does index rebuild reduces physical read from disk
+212003 help with merge statement
+212435 can sql servers crash resilience be improved
+212533 is it okay to delete msdb
+212707 select count without join
+212742 alternative for join
+212770 cursor causes ssms to crash
+212781 select the greatest value from each column even if one of the values is null
+212797 stored procedure with optional parameters
+213010 memory usage by sql server
+213199 what are exact benefits of using services on enterprise vs standard
+213317 what is an orphan incarnation
+213608 enable tls for sql server database mail
+213791 list all dropped databases
+213922 question about null values in sql
+214757 clustered index seek predicate and predicate on the same column
+214863 how to list all constraints of table in postgresql
+215043 what is the best smallest data type size for digit number
+215078 why does changing the declared join column order introduce sort
+215172 sql server can dynamic data masking be safe when providing database backup
+215212 how to most efficiently find out if record has child records
+215382 understanding cleanuptime in ola hallengrens sql server scripts in relation to full backups and log backups
+215491 how to query against exact values in xml column set
+215534 mongodump unrecognized field snapshot
+215699 if not exists using object id doesnt work for views and triggers why
+215868 what is the correct way of creating one to one relationship
+216417 why public is not mentioned as fixed role in system database in sql server
+216816 best way to put commas into large numbers
+216919 why does my query run fast in environment but slow in environment
+216999 sp msforeach db why do we need to use the use keyword
+217019 how do create bounded range type in the sql server
+217419 dbcc checkdb on secondary asynchronous replica
+217424 why cant object names start with number
+217653 select is using non pk index instead of the pk
+217788 does the quality of query optimization differ by database provider
+218315 how do you sum column without having its name
+218479 when nvarchar nchar is going to be used with sql server
+218871 subquery gives no error for non existing column with the same name as in the outer query
+218962 best practice around non production databases refreshes and tde
+219936 sql server database backup destination disk adding multiple files does it duplicate or split backup into the files
+220266 is there way to back up agent jobs
+220270 is it still best practice to avoid using the default ports for sql server
+220363 how many partitions should make for my clustered columnstore index tables should partition the rowstore tables also
+220560 computed column cannot be persisted because the column is non deterministic
+221191 why use master to create database
+221290 adding row number with no column to order by
+221349 how to add the debug button to ssms v18
+221531 sql server utf support benefits
+222987 why would optimiser choose clustered index sort instead of non clustered index
+223392 identity column re seed when it is necessary
+223496 sql server changes xml structure when inserted
+223906 getting sql server to recognise date column
+224871 postgresql retrieve all ids in tree for given subnode
+224913 is there any difference between predicate using literal value or parameter value when that value will always be the same
+225240 whats the reason for using double inner join in this sql statement
+225274 insert self referencing entry into sql server
+226356 wrong estimate on query on partitioned tables
+226610 why am getting an implicit conversion of int smallint to varchar and is it really impacting cardinality estimates
+226792 does localdb support temporary tables
+226838 what is the best way to rebuild date from integer inputs
+226946 how does sql recursion actually work
+227267 how to get the ignored row while ignore dup key is on on sql server
+227288 sort spills to tempdb due to varcharmax
+228561 why does an index rebuild requires sch lock
+228597 how to inspect global temp table from outside the transaction it is created in
+228695 is there any limit for in results in sql server
+228789 what is scalable way to simulate hashbytes using sql clr scalar function
+228868 does sql server cache aggregate results when duplicated across columns
+229012 return row with most matching parameters
+229064 which columns should be indexed when all may be used in different search queries
+229070 cross join yields execution plan that reads one of the tables multiple times
+229103 byte ordering for multibyte characters in sql server versus oracle
+229559 solution to assigning unique values to rows with finite collaboration distance
+229784 filter by using in for sql server
+230074 execute new query when current query finalises
+230303 does changing sa password require sql restart in mixed mode
+230328 explain an over clause
+230491 disk space full during insert what happens
+230722 why is temp table more efficient solution to the halloween problem than an eager spool
+230993 create assembly system directoryservices accountmanagement dll without enabling trustworthy
+231228 how to deny access to sql server to certain login over ssms but allow over net sqlclient data provider
+231460 filter condition not correctly applied to clustered columnstore index
+231474 what is the impact on the cost based optimizer cbo when implementing iscsi san solid state drives
+231628 sql server covering indexes including all columns
+231647 why are partial postgresql hash indices not smaller than full indices
+231682 what is log memory in query store
+231862 database backup for data and log files
+232048 do need to leave some extra space available on the disk which my database log files reside for log backup operations to successfully occur
+232120 how to generate globally unique ids for different tables of the same database
+232943 maxdop settings for sql server
+233382 is it good idea to use column as left another column instead of left in the select
+233610 how to get the last not null value in an ordered column of huge table
+233642 distinct column combination with permutations
+233674 how to find if sql server backup is encrypted with tde without restoring the backup
+233716 how can get running totals of recent rows faster
+233783 is this deadlock related to our database
+233851 cast throwing error when run in stored procedure but not when run as raw query
+233861 extract rows of table that include less than nulls
+233884 cursor replacement for newbies
+234086 the use of multiple foreign keys on same column in sql server
+234144 how to create data type and make it available in all databases
+234221 why is my log file so massive 22gb am running log backups
+234303 deadlock graph and interpretation solution to avoid
+234368 order table by two columns
+235085 is there such thing as an availability group failover trigger
+235153 run powershell script from agent as administrator
+235197 is it possible for sql statements to execute concurrently within single session in sql server
+235227 converted scalar function to tvf function for parallel execution still running in serial mode
+235412 checking ifi enabled on sql server below
+235465 writing sql stored procedure to receive numbers and insert them into table
+235469 sql server placement of master database files vs resource database files
+236675 can stored procedure reference the database in which it is stored
+236768 can sql server create collisions in system generated constraint names
+237128 using column size much larger than necessary
+237312 start job from another sql server instance
+237418 can combine select top with the in operator
+237475 concatenate all values of the same xml element using xpath xquery
+237494 does restarting the sql services on the machine clear the server cache for things like query plans and statistics
+237509 displaying an estimated execution plan generates cxpacket pagelatch sh and latch ex access methods dataset parent waits
+237671 long running query on read only replica that takes moments on the primary
+237684 what is the fastest way to convert many nullable ints to binary string
+237935 does sql server allow make visible ddl inside transaction to the transaction prior to commit
+238263 sql table with same name as catalog view
+238350 lock out of oracle based on windows username
+238714 how to determine if hyphen exists inside column
+238783 why it is doing index seek
+238873 do need full recovery mode when have multiple daily backup
+239314 only first column in order by clause is sorted
+239400 what am doing wrong with subquery
+239646 pl sql function to receive number and return its binary format
+239788 sql counting distinct over partition
+240469 sql server has encountered occurences of requests taking longer than seconds
+240503 will postgres perform the computation of calculated columns that arent selected in view
+240540 what are the practical impacts of the sys dm exec query stats warning in the documentation
+240742 covering index used despite missing column
+241302 way to find when system health file is rolling over
+241607 dynamic sql query how do add an int to the code
+241656 is it possible to alias column based on the result of select where
+242187 prepared statements with many parameters is slow
+242649 get ids only where one id is null and other isnt
+242813 nested loop join how many comparisons and how many pages accesses
+242908 index uniqueness overhead
+243115 using spid in db tables instead of table variable
+243484 capture sql server queries without third party tooling and without using deprecated features
+244000 how likely is fragmentation on table with products likely to affect performance
+244345 null value causes blank row in select results for text concatenation
+244756 remove leading and trailing quotes
+245148 how to disable completion time in sql server messages window
+245178 can bulk insert into an empty page compressed table and get full compression
+245699 infinite loop in cursor
+245781 how can run sql server vulnerability assessment from sql job
+245983 see details of old sessions
+246015 do need new sql server failover cluster installation to run availability groups with manual failover
+246372 alternatives to network backup
+246448 can subqueries produce different execution plans than ctes
+246495 search for values in xml data
+246649 eliminate key lookup in execution plan
+246734 why doesn this recursive cte with parameter use an index when it does with literal
+246804 unknownappdomain master sys runtime is marked for unload due to memory pressure
+246832 queries and updates extremely slow after indexoptimize
+246888 in the following inventory system is it possible to force row locks to avoid deadlock and ensure it works as intended
+247090 when should the ignore dup key option be used on an index
+247411 is it possible to pivot on like statement
+248503 selecting column in an inner join
+248587 how to remove secondary database from an availability group and rejoin it
+248610 cannot find database mail feature in sql server express sp1
+249465 is it possible to take database offline when doing backup using an sql job
+249520 help error message inside dynamic sql
+249593 manipulating column containing key value pairs
+249617 postgres sometimes uses inferior index for where in order by limit
+249715 how does case insensitive collation work
+249838 does sql servers serializable isolation level lock entire table
+250166 sql server backup message
+250395 does an excessive table violate normalization rules
+250490 managing sql server database with over one terabyte of data
+250573 split mile limits to the thousandth based on id
+251034 why would shrinking tempdb log lead to slowness
+251805 sql server trusted connection additional security
+251988 the logical order of execution plan of the sql query with more than one join
+252191 during log backup is the data backed up to the start or end of the operation
+252661 does sql server only perform calculations in select list once
+253166 sql server snapshot is useful in production environments
+253873 whats good use case for select in production code
+253924 only return recordsets from stored procedure if it has rows
+254252 default permissible datatype conversion matrix
