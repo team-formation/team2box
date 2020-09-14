@@ -1,4 +1,5 @@
-This is an implementation of the paper: bedding-based Team Discovery for Question Answering
+
+This is an implementation of the paper: embedding-based Team Discovery for Question Answering
 ------------------------------------
 Requirments:
 
