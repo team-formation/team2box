@@ -42,8 +42,7 @@ class TeamFormation:
         self.eqembedding=np.loadtxt(self.path+self.dataset+team2box_w1_embedding)  
         self.testquestions=self.loadtestresults()       
 
-        self.numq2map=Numq2map  #set between 1 .. n 
-        
+        self.numq2map=Numq2map  #set between 1 .. n         
         self.testqmap2embeddings=self.maptestqtoembeddingspace(self.eqembedding)        
         self.testqtopteams=self.findtopkteams(Numtopkteams)
         self.loadTeams()
