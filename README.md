@@ -3,7 +3,7 @@ This repository contains the code, preproccessed datasets, and intermediate data
 
 Embedding-based Team Formation for Community Question Answering
 ------------------------------------
-The data are a collection of several real-world datasets from Stack Exchange, released in Sept 2019.
+The data are collected from Stack Exchange datasets released in Sept 2019. The original data is available at https://archive.org/download/stackexchange/.
 
 To run the code the following requirments needed to be installed:
 
