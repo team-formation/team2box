@@ -10,16 +10,16 @@ class TeamFormation:
     def __init__(self,path,data): 
         self.path=path
         self.dataset=data 
-        pfile=open(self.path+self.dataset+"/CQAG_properties.txt")
+        pfile=open(self.path+self.dataset+"/CQAG_properties.txt")# read CQAG properties
         pfile.readline()
         properties=pfile.readline().strip().split(" ")
         pfile.close()
         self.N=int(properties[0]) # number of nodes in the CQA network graph N=|Qestions|+|Answers|+|Experts|                
-        self.qnum=int(properties[1])
-        self.anum=int(properties[2])
-        self.enum=int(properties[3])
+        self.qnum=int(properties[1])  #number of questions
+        self.anum=int(properties[2])  # number of answers
+        self.enum=int(properties[3])  # number of answerers
 
-        self.Expert_id_map={}
+        self.Expert_id_map={} # used to get original ids of answerers
         pufile=open(self.path+self.dataset+"/answer_user_ids.txt")
         pufile.readline()
         line=pufile.readline().strip()
@@ -45,14 +45,14 @@ class TeamFormation:
         self.numq2map=Numq2map  #set between 1 .. n         
         self.testqmap2embeddings=self.maptestqtoembeddingspace(self.eqembedding)        
         self.testqtopteams=self.findtopkteams(Numtopkteams)
-        self.loadTeams()
-        self.testq_teamsize=self.getteamsize()        
+        self.loadTeams() #load actual answerers
+        self.testq_teamsize=self.getteamsize() # compute the average team size       
         self.usertags=self.loadusertags()         
         self.questiontags=self.loadquestiontags()           
         
         fout=open("detailedresults/team2box_results_"+self.dataset+"_"+str(teamsize)+".txt","w")
-        self.testq_teams=self.formteam(teamsize,fout)                
-        SC,EL,CL=self.displayteams(self.testq_teams,fout)
+        self.testq_teams=self.formteam(teamsize,fout) # form teams with size teamsize using t2b method               
+        SC,EL,CL=self.displayteams(self.testq_teams,fout) #compute the metrics
         strtable3="\\textbf{"+ str(round(SC,1))+"} & \\textbf{"+str(round(EL,1))+"} & \\textbf{"+str(round(CL,1))+"}"
         outputfile.write("\nTeam2box:  SC="+str(SC)+" EL="+str(EL)+" CL="+str(CL)+"   : \\textbf{"+ str(round(SC,1))+"} & \\textbf{"+str(round(EL,1))+"} & \\textbf{"+str(round(CL,1))+"}")   
         #print("+++++++++++++++++++++++++++++++++++++++++++++")
@@ -345,7 +345,7 @@ class TeamFormation:
                 sumscor+=self.usertags[e-self.qnum-self.anum]['scores'][self.usertags[e-self.qnum-self.anum]['tags'].index(t)] 
 
               if len(inter)>0:
-                  e_score.append(sumscor/len(inter))
+                  e_score.append(sumscor*len(inter))
               else:
                   e_score.append(0)     
 
