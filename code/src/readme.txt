@@ -1,4 +1,4 @@
-Steps to run the code:
+Steps to run the code: 
 
 Step 1: run team2box.py to get the embedding of teams
 Step 2: run ExpertsEmbeding.py to get embedding of questions and experts
