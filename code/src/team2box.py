@@ -18,23 +18,22 @@ class Team2Box:
         self.G={}    
         self.Teams=[] 
         self.loadTeams(data)
-        self.loadG(data)
-                
-        self.hidden_size=hsize 
-        
+        self.loadG(data)                
+        self.hidden_size=hsize         
         self.W1,self.Offsets=self.weight_variable_teams((self.N,self.hidden_size))
-        #print(self.W1,self.Offsets)        
-        
+        #print(self.W1,self.Offsets)     
         self.W2=Team2Box.weight_variable((self.N,self.hidden_size))        
         #self.displayG()
         #self.displayTeamEmbedding()
     
     def weight_variable(shape):
+        """initialize the embedding weights for questions, experts,..."""
         tmp = np.sqrt(6.0) / np.sqrt(shape[0] + shape[1])
         initial = tf.random.uniform(shape, minval=-tmp, maxval=tmp)
         return tf.Variable(initial) 
     
-    def weight_variable_teams(self,shape):        
+    def weight_variable_teams(self,shape):   
+        """"""
         tmp = 2.*np.sqrt(6.0) / np.sqrt(shape[0] + shape[1])
         initial=[]
         offsets=[]
@@ -352,10 +351,7 @@ class Team2Box:
         
         #print(i_offset[0,0],j_offset[0,0])
         #print("offs")
-        #print(i_offset,j_offset)
-        
-       
-        
+        #print(i_offset,j_offset)      
         #print("offsets=",offsets)
         c=tf.square(tf.subtract(i_embed,j_embed))         
         d=tf.sqrt(tf.reduce_sum(c,axis=1))
