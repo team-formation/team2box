@@ -3,7 +3,7 @@ from stellargraph.data import BiasedRandomWalk
 from matplotlib.patches import Rectangle
 import networkx as nx
 import tensorflow as tf
-import numpy as np
+import numpy as np 
 import random
 import gensim 
 from gensim.models import Word2Vec 
