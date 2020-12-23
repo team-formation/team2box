@@ -4,7 +4,7 @@ import tensorflow as tf
 sys.path.append('team2box/aaaidata/knrm/model/')
 import model_knrm
 import MYMODEL
-import re,string
+import re,string 
 #import nltk
 #from nltk.corpus import stopwords
 import numpy as np
