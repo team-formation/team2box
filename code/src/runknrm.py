@@ -1,4 +1,4 @@
-import sys
+import sys 
 import tensorflow as tf
 #change based on knrm location
 sys.path.append('team2box/aaaidata/knrm/model/')
