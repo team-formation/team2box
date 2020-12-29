@@ -1,4 +1,4 @@
-AnswerNewID OriginalID
+AnswerNewID OriginalID 
 0 13
 1 29185
 2 181951
