@@ -15,14 +15,14 @@ class Team2Box:
         self.dataset=data 
         #self.CreateTeamG()
         #sys.exit()
-        self.G={}    
+        self.G={}  #contains the team network  
         self.Teams=[] 
         self.loadTeams(data)
         self.loadG(data)                
         self.hidden_size=hsize         
-        self.W1,self.Offsets=self.weight_variable_teams((self.N,self.hidden_size))
+        self.W1,self.Offsets=self.weight_variable_teams((self.N,self.hidden_size)) # initilize the first layer weights and offsets
         #print(self.W1,self.Offsets)     
-        self.W2=Team2Box.weight_variable((self.N,self.hidden_size))        
+        self.W2=Team2Box.weight_variable((self.N,self.hidden_size))  # initilize the second layer weights      
         #self.displayG()
         #self.displayTeamEmbedding()
     
@@ -33,7 +33,7 @@ class Team2Box:
         return tf.Variable(initial) 
     
     def weight_variable_teams(self,shape):   
-        """"""
+        """initialize the embedding weights of teams"""
         tmp = 2.*np.sqrt(6.0) / np.sqrt(shape[0] + shape[1])
         initial=[]
         offsets=[]
@@ -47,6 +47,7 @@ class Team2Box:
         return tf.Variable(initial,dtype=tf.float32),tf.Variable(offsets,dtype=tf.float32)
       
     def get_train_pair(self,walks,windowsize, N): 
+        """Prepar training data"""
         #print(N)
         z=np.zeros((N))
         total=0
@@ -57,7 +58,7 @@ class Team2Box:
         #print(z) 
         #print(total)
         z1=z/total
-        p=(np.sqrt(z1/0.001)+1)*(0.001/z1)  #probability of keeping a node in the traing
+        p=(np.sqrt(z1/0.001)+1)*(0.001/z1)  #probability of keeping a node in the training data
         #print(p)
         z2=np.power(z,.75)
         p2=z2/np.sum(z2)
@@ -104,6 +105,7 @@ class Team2Box:
         return pairs,negs
     
     def loadTeams(self,dataset):
+        """load existing teams"""
         self.dataset=dataset
         gfile=open(dataset+"/teams.txt")
         gfile.readline()
@@ -123,6 +125,7 @@ class Team2Box:
         gfile.close() 
         
     def loadG(self,dataset):
+        """load the team network"""
         self.dataset=dataset
         gfile=open(dataset+"/teamsG.txt")
         #gfile.readline()
@@ -152,6 +155,7 @@ class Team2Box:
         gfile.close() 
     
     def walks(self,walklen):
+        """get random walks on the team network"""
         G=nx.Graph();
         G=nx.read_weighted_edgelist(self.dataset+"/teamsG.txt")        
         rw = BiasedRandomWalk(StellarGraph(G))
@@ -169,6 +173,7 @@ class Team2Box:
         return weighted_walks      
     
     def displayG(self):
+        """Used to visualize the team network"""
         G=nx.Graph();
         G=nx.read_weighted_edgelist(self.dataset+"/teamsG.txt")
         nodes=list(G.nodes())
@@ -187,7 +192,8 @@ class Team2Box:
         plt.axis('off')
         plt.show()
     
-    def CreateTeamG(self):        
+    def CreateTeamG(self): 
+        """Generate team network graph from CQA network"""
         gfile=open(self.dataset+"/CQAG.txt")
         #gfile.readline()
         e=gfile.readline()
@@ -287,7 +293,7 @@ class Team2Box:
                     #j_index=indx[j]
                     c=set(T[i]).intersection(set(T[j]))
                     if len(c)>0:                  
-                        wi=1.0*(len(c)/(len(T[i])+len(T[j])-len(c)))
+                        wi=1.0*(len(c)/(len(T[i])+len(T[j])-len(c)))  # comute the weights in the team network 
                         qfile.write(str(i)+" "+str(j)+" "+str(wi)+"\n")
                     j+=1             
                 #qfile.write("\n")      
@@ -301,7 +307,8 @@ class Team2Box:
         qfile.close()
         print("done!!!!!!1")
         
-    def displayTeamEmbedding(self):       
+    def displayTeamEmbedding(self):  
+        """Visualize the embeddings of teams"""
         Centers=self.W1.numpy().copy()
         Offsets=self.Offsets.numpy().copy()
         #print(embed)
@@ -391,6 +398,7 @@ class Team2Box:
         return current_loss
     
     def run_adam(self,walklen):
+        """train the model using ADAM optimizer"""
         #self.load_graph(dataset)        
         walks=self.walks(walklen)
         pairs,negsamples=self.get_train_pair(walks,1,self.N)
