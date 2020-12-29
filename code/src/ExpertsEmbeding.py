@@ -1,4 +1,4 @@
-from stellargraph import StellarGraph
+from stellargraph import StellarGraph 
 from stellargraph.data import BiasedRandomWalk
 from matplotlib.patches import Rectangle
 import networkx as nx
