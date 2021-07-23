@@ -1,5 +1,5 @@
 
-This repository contains the code, preproccessed datasets, and intermediate data of the paper: 
+This repository contains the code, preproccessed datasets, and intermediate data of the paper:  
 
 Embedding-based Team Formation for Community Question Answering
 ------------------------------------
